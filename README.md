@@ -1,6 +1,6 @@
-# Placement Messenger - Admin Panel
+# A Multi-Channel Messaging System for Placement Communication
 
-A streamlined Flask web application for managing placement opportunities at KLU (Koneru Lakshmaiah Education Foundation). The application provides an admin interface for creating placement messages and sending notifications via Excel file uploads, Telegram, and Email.
+A streamlined Flask web application for managing placement opportunities at KARE. The application provides an admin interface for creating placement messages and sending notifications via Excel file uploads, Telegram, and Email.
 
 ## Features
 
