@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
-TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN', '8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM')
+TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN', '')
 
 async def get_group_id():
     """Get the group ID by sending a test message."""
