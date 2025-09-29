@@ -97,10 +97,10 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration
-TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN', '8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM')
-GMAIL_USER = os.getenv('GMAIL_USER', 'petluzenas@gmail.com')
-GMAIL_APP_PASSWORD = os.getenv('GMAIL_APP_PASSWORD', 'bsen xzcp mdjf jwej')
-TELEGRAM_GROUP_ID = '-1003096231693'  # Your placement group ID
+TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN', '')
+GMAIL_USER = os.getenv('GMAIL_USER', '')
+GMAIL_APP_PASSWORD = os.getenv('GMAIL_APP_PASSWORD', '')
+TELEGRAM_GROUP_ID = ''  # Your placement group ID
 
 # Utility Functions
 async def send_telegram_message(chat_id, message):
