@@ -10,8 +10,8 @@ from telegram import Bot
 from telegram.error import TelegramError
 
 # Configuration
-TELEGRAM_TOKEN = "8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM"
-TELEGRAM_GROUP_ID = "-1003096231693"
+TELEGRAM_TOKEN = ""
+TELEGRAM_GROUP_ID = ""
 
 async def test_telegram():
     """Test sending a message to the Telegram group."""
