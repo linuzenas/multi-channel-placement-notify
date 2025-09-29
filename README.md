@@ -53,7 +53,7 @@ A streamlined Flask web application for managing placement opportunities at KLU 
      GMAIL_USER=your-email@gmail.com
      GMAIL_APP_PASSWORD=your-gmail-app-password
      TELEGRAM_TOKEN=your-telegram-bot-token
-     TELEGRAM_GROUP_ID=-1001234567890
+     TELEGRAM_GROUP_ID=your-group-id
      ```
 
 ## Gmail Setup
@@ -135,9 +135,8 @@ Your Excel file should have the following structure:
 
 | name | email |
 |------|-------|
-| John Doe | john@klu.ac.in |
-| Jane Smith | jane@klu.ac.in |
-| Bob Johnson | bob@klu.ac.in |
+| Linu Zenas | 9923008040@klu.ac.in |
+| K Shyam Sunder | 9923008038@klu.ac.in |
 
 **Important:**
 - Column names must be exactly "name" and "email" (case-sensitive)
