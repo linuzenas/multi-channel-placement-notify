@@ -30,9 +30,9 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration
-TELEGRAM_TOKEN = "8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM"  # Replace with your actual token
-GMAIL_USER = "petluzenas@gmail.com"  # Replace with your Gmail address
-GMAIL_APP_PASSWORD = "bsen xzcp mdjf jwej"  # Replace with your Gmail App Password
+TELEGRAM_TOKEN = ""  # Replace with your actual token
+GMAIL_USER = ""  # Replace with your Gmail address
+GMAIL_APP_PASSWORD = ""  # Replace with your Gmail App Password
 
 # Sample student data - In a real application, this would come from a database
 STUDENTS = [
