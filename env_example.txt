@@ -1,0 +1,12 @@
+# Flask Configuration
+SECRET_KEY=your-secret-key-here
+FLASK_ENV=development
+
+# Email Configuration
+GMAIL_USER=your-email@gmail.com
+GMAIL_APP_PASSWORD=your-gmail-app-password
+
+# Telegram Configuration
+TELEGRAM_TOKEN=your-telegram-bot-token
+# To get your group ID, run: python get_telegram_group_id.py
+TELEGRAM_GROUP_ID=-1001234567890

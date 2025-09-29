@@ -1,0 +1,262 @@
+{% extends "base.html" %}
+
+{% block title %}Admin Dashboard - Placement Messenger{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <!-- Header Section -->
+    <div class="row mb-4">
+        <div class="col-12">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <h1 class="fw-bold text-primary mb-1">
+                        <i class="fas fa-briefcase me-3"></i>Placement Messenger
+                    </h1>
+                    <p class="text-muted mb-0">Admin Dashboard - Manage placement notifications</p>
+                </div>
+                <div class="text-end">
+                    <div class="d-flex align-items-center gap-3">
+                        <div class="badge bg-success fs-6 px-3 py-2">
+                            <i class="fas fa-circle me-2"></i>System Online
+                        </div>
+                        <a href="{{ url_for('logout') }}" class="btn btn-outline-danger btn-sm">
+                            <i class="fas fa-sign-out-alt me-2"></i>Logout
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Quick Actions -->
+    <div class="row g-4 mb-5">
+        <div class="col-lg-4 col-md-6">
+            <div class="card border-0 shadow-sm h-100 hover-card">
+                <div class="card-body text-center p-4">
+                    <div class="bg-primary bg-gradient rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width: 80px; height: 80px;">
+                        <i class="fas fa-plus fa-2x text-white"></i>
+                    </div>
+                    <h4 class="card-title text-primary">Create Message</h4>
+                    <p class="card-text text-muted">Create a new placement opportunity message with all details</p>
+                    <a href="{{ url_for('create_message') }}" class="btn btn-primary btn-lg px-4">
+                        <i class="fas fa-arrow-right me-2"></i>Get Started
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-lg-4 col-md-6">
+            <div class="card border-0 shadow-sm h-100 hover-card">
+                <div class="card-body text-center p-4">
+                    <div class="bg-success bg-gradient rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width: 80px; height: 80px;">
+                        <i class="fas fa-upload fa-2x text-white"></i>
+                    </div>
+                    <h4 class="card-title text-success">Upload Students</h4>
+                    <p class="card-text text-muted">Upload Excel file with student list and send notifications</p>
+                    <a href="{{ url_for('upload_students') }}" class="btn btn-success btn-lg px-4">
+                        <i class="fas fa-arrow-right me-2"></i>Upload Now
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-lg-4 col-md-6">
+            <div class="card border-0 shadow-sm h-100 hover-card">
+                <div class="card-body text-center p-4">
+                    <div class="bg-warning bg-gradient rounded-circle d-inline-flex align-items-center justify-content-center mb-3" style="width: 80px; height: 80px;">
+                        <i class="fas fa-download fa-2x text-white"></i>
+                    </div>
+                    <h4 class="card-title text-warning">Download Template</h4>
+                    <p class="card-text text-muted">Get Excel template for student list formatting</p>
+                    <a href="{{ url_for('download_template') }}" class="btn btn-warning btn-lg px-4">
+                        <i class="fas fa-arrow-right me-2"></i>Download
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- System Status -->
+    <div class="row mb-5">
+        <div class="col-12">
+            <div class="card border-0 shadow-sm">
+                <div class="card-header bg-white border-0 py-3">
+                    <h5 class="mb-0 text-dark">
+                        <i class="fas fa-cogs me-2 text-primary"></i>System Status
+                    </h5>
+                </div>
+                <div class="card-body p-4">
+                    <div class="row g-4">
+                        <div class="col-lg-3 col-md-6">
+                            <div class="d-flex align-items-center p-3 bg-light rounded-3">
+                                <div class="me-3">
+                                    <i class="fas fa-envelope fa-2x text-primary"></i>
+                                </div>
+                                <div>
+                                    <h6 class="mb-0 fw-bold">Email Service</h6>
+                                    <small class="text-muted">Gmail SMTP</small>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-lg-3 col-md-6">
+                            <div class="d-flex align-items-center p-3 bg-light rounded-3">
+                                <div class="me-3">
+                                    <i class="fab fa-telegram fa-2x text-info"></i>
+                                </div>
+                                <div>
+                                    <h6 class="mb-0 fw-bold">Telegram Bot</h6>
+                                    <small class="text-muted">Group Messaging</small>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-lg-3 col-md-6">
+                            <div class="d-flex align-items-center p-3 bg-light rounded-3">
+                                <div class="me-3">
+                                    <i class="fas fa-file-excel fa-2x text-success"></i>
+                                </div>
+                                <div>
+                                    <h6 class="mb-0 fw-bold">Excel Processing</h6>
+                                    <small class="text-muted">Student Lists</small>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-lg-3 col-md-6">
+                            <div class="d-flex align-items-center p-3 bg-light rounded-3">
+                                <div class="me-3">
+                                    <i class="fas fa-shield-alt fa-2x text-warning"></i>
+                                </div>
+                                <div>
+                                    <h6 class="mb-0 fw-bold">Security</h6>
+                                    <small class="text-muted">Admin Only</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Recent Messages -->
+    <div class="row">
+        <div class="col-12">
+            <div class="card border-0 shadow-sm">
+                <div class="card-header bg-white border-0 py-3">
+                    <h5 class="mb-0 text-dark">
+                        <i class="fas fa-history me-2 text-primary"></i>Recent Messages
+                    </h5>
+                </div>
+                <div class="card-body p-4">
+                    {% if recent_messages %}
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead class="table-light">
+                                    <tr>
+                                        <th>ID</th>
+                                        <th>Company</th>
+                                        <th>Job Title</th>
+                                        <th>Students</th>
+                                        <th>Sent At</th>
+                                        <th>Status</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {% for message in recent_messages %}
+                                    <tr>
+                                        <td class="fw-bold text-primary">#{{ message.id }}</td>
+                                        <td class="fw-bold">{{ message.company_name }}</td>
+                                        <td>{{ message.job_title }}</td>
+                                        <td>
+                                            <span class="badge bg-info">{{ message.student_count }} students</span>
+                                        </td>
+                                        <td class="text-muted">{{ message.timestamp }}</td>
+                                        <td>
+                                            <span class="badge bg-success">
+                                                <i class="fas fa-check me-1"></i>{{ message.status.title() }}
+                                            </span>
+                                        </td>
+                                    </tr>
+                                    {% endfor %}
+                                </tbody>
+                            </table>
+                        </div>
+                    {% else %}
+                        <div class="text-center py-5">
+                            <i class="fas fa-inbox fa-3x text-muted mb-3"></i>
+                            <h5 class="text-muted">No messages sent yet</h5>
+                            <p class="text-muted">Create your first placement message to get started!</p>
+                            <a href="{{ url_for('create_message') }}" class="btn btn-primary">
+                                <i class="fas fa-plus me-2"></i>Create First Message
+                            </a>
+                        </div>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_css %}
+<style>
+    .hover-card {
+        transition: all 0.3s ease;
+        cursor: pointer;
+    }
+    
+    .hover-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 25px rgba(0,0,0,0.15) !important;
+    }
+    
+    .bg-gradient {
+        background: linear-gradient(135deg, var(--bs-primary), var(--bs-primary-dark));
+    }
+    
+    .card {
+        border-radius: 15px;
+    }
+    
+    .table th {
+        border-top: none;
+        font-weight: 600;
+        color: #495057;
+    }
+    
+    .badge {
+        border-radius: 20px;
+        padding: 8px 16px;
+    }
+    
+    .btn {
+        border-radius: 25px;
+        font-weight: 500;
+    }
+    
+    .btn-lg {
+        padding: 12px 30px;
+    }
+</style>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    // Add some interactive animations
+    document.addEventListener('DOMContentLoaded', function() {
+        // Animate cards on load
+        const cards = document.querySelectorAll('.hover-card');
+        cards.forEach((card, index) => {
+            card.style.opacity = '0';
+            card.style.transform = 'translateY(20px)';
+            setTimeout(() => {
+                card.style.transition = 'all 0.5s ease';
+                card.style.opacity = '1';
+                card.style.transform = 'translateY(0)';
+            }, index * 100);
+        });
+    });
+</script>
+{% endblock %}

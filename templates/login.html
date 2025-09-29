@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+
+{% block title %}Login - Placement Messenger{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6 col-lg-5">
+            <div class="card shadow-lg border-0 mt-5">
+                <div class="card-header text-center py-4">
+                    <h3 class="mb-0">
+                        <i class="fas fa-shield-alt me-2"></i>
+                        Admin Login
+                    </h3>
+                    <p class="mb-0 mt-2">Sign in to access the admin panel</p>
+                </div>
+                <div class="card-body p-5">
+                    <form method="POST" action="{{ url_for('login') }}">
+                        <div class="mb-3">
+                            <label for="username" class="form-label">Username</label>
+                            <input type="text" class="form-control" id="username" name="username" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="password" class="form-label">Password</label>
+                            <input type="password" class="form-control" id="password" name="password" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100">
+                            <i class="fas fa-sign-in-alt me-2"></i>Login
+                        </button>
+                    </form>
+                    
+                    <hr class="my-4">
+                    
+                    <div class="text-center">
+                        <p class="small text-muted">
+                            <a href="{{ url_for('index') }}" class="text-primary">
+                                <i class="fas fa-arrow-left me-1"></i>Back to Home
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Admin Features Info -->
+            <div class="row mt-4">
+                <div class="col-12">
+                    <div class="card border-0 bg-light">
+                        <div class="card-body text-center">
+                            <h6 class="card-title">Admin Panel Features:</h6>
+                            <div class="row g-3">
+                                <div class="col-6">
+                                    <i class="fas fa-plus text-primary me-2"></i>
+                                    <small>Create Messages</small>
+                                </div>
+                                <div class="col-6">
+                                    <i class="fas fa-upload text-success me-2"></i>
+                                    <small>Upload Students</small>
+                                </div>
+                                <div class="col-6">
+                                    <i class="fas fa-paper-plane text-warning me-2"></i>
+                                    <small>Send Notifications</small>
+                                </div>
+                                <div class="col-6">
+                                    <i class="fas fa-chart-bar text-info me-2"></i>
+                                    <small>Track Results</small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

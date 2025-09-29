@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Placement Messenger Workflow</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.2.3/mermaid.min.js"></script>
+</head>
+<body>
+    <div class="mermaid">
+    flowchart TD
+        A[Admin Starts Application] --> B{Admin Login}
+        B --> |Success| C[Access Admin Dashboard]
+        B --> |Failure| D[Return to Login]
+        
+        C --> E[Admin Actions]
+        E --> |Create Message| F[Fill Placement Message Form]
+        E --> |Upload Students| G[Prepare Excel File]
+        E --> |Test Configuration| H[Verify Email & Telegram Setup]
+        
+        F --> I[Preview Message]
+        I --> J[Save Message]
+        
+        G --> K[Upload Excel File]
+        K --> L[Validate File Format]
+        L --> |Valid| M[Process Student Data]
+        L --> |Invalid| N[Show Error Message]
+        
+        M --> O{Select Notification Channels}
+        O --> |Telegram| P[Send to Telegram Group]
+        O --> |Email| Q[Send Individual Emails]
+        
+        P --> R[Telegram Notification Sent]
+        Q --> S[Email Notifications Sent]
+        
+        H --> T[Send Test Messages]
+        T --> U[Display Test Results]
+        
+        %% Summary Node
+        V[A Multi-Channel Messaging System for Placement Communication] --> A
+    </div>
+
+    <script>
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+</body>
+</html>

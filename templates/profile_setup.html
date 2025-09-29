@@ -1,0 +1,161 @@
+{% extends "base.html" %}
+
+{% block title %}Profile Setup - Placement Messenger{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="card shadow-lg border-0 mt-4">
+                <div class="card-header text-center py-4">
+                    <h3 class="mb-0">
+                        <i class="fas fa-user-edit me-2"></i>
+                        Complete Your Profile
+                    </h3>
+                    <p class="mb-0 mt-2">Help us personalize your placement experience</p>
+                </div>
+                <div class="card-body p-5">
+                    <form method="POST">
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <label for="student_id" class="form-label">
+                                    <i class="fas fa-id-card me-1"></i>Student ID
+                                </label>
+                                <input type="text" class="form-control" id="student_id" name="student_id" 
+                                       placeholder="e.g., 9923008040" required>
+                            </div>
+                            
+                            <div class="col-md-6">
+                                <label for="department" class="form-label">
+                                    <i class="fas fa-building me-1"></i>Department
+                                </label>
+                                <select class="form-select" id="department" name="department" required>
+                                    <option value="">Select Department</option>
+                                    <option value="CSE">Computer Science & Engineering</option>
+                                    <option value="ECE">Electronics & Communication Engineering</option>
+                                    <option value="EEE">Electrical & Electronics Engineering</option>
+                                    <option value="IT">Information Technology</option>
+                                    <option value="BCA">Bachelor of Computer Applications</option>
+                                    <option value="B.Sc (CS&IT)">B.Sc Computer Science & IT</option>
+                                    <option value="MCA">Master of Computer Applications</option>
+                                    <option value="M.Sc (CS)">M.Sc Computer Science</option>
+                                    <option value="M.Sc (DS)">M.Sc Data Science</option>
+                                </select>
+                            </div>
+                            
+                            <div class="col-md-6">
+                                <label for="year" class="form-label">
+                                    <i class="fas fa-calendar me-1"></i>Academic Year
+                                </label>
+                                <select class="form-select" id="year" name="year" required>
+                                    <option value="">Select Year</option>
+                                    <option value="2024">2024</option>
+                                    <option value="2025">2025</option>
+                                    <option value="2026">2026</option>
+                                    <option value="2027">2027</option>
+                                </select>
+                            </div>
+                            
+                            <div class="col-md-6">
+                                <label for="phone" class="form-label">
+                                    <i class="fas fa-phone me-1"></i>Phone Number
+                                </label>
+                                <input type="tel" class="form-control" id="phone" name="phone" 
+                                       placeholder="+91 9876543210" required>
+                            </div>
+                            
+                            <div class="col-12">
+                                <label for="telegram_chat_id" class="form-label">
+                                    <i class="fab fa-telegram me-1"></i>Telegram Chat ID
+                                </label>
+                                <input type="text" class="form-control" id="telegram_chat_id" name="telegram_chat_id" 
+                                       placeholder="Your Telegram Chat ID for notifications">
+                                <div class="form-text">
+                                    <i class="fas fa-info-circle me-1"></i>
+                                    This is optional but recommended for instant notifications. 
+                                    <a href="#" data-bs-toggle="modal" data-bs-target="#telegramHelpModal">
+                                        How to get your Telegram Chat ID?
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="d-grid gap-2 mt-4">
+                            <button type="submit" class="btn btn-primary btn-lg">
+                                <i class="fas fa-save me-2"></i>Complete Profile Setup
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            
+            <!-- Info Card -->
+            <div class="card border-0 bg-light mt-4">
+                <div class="card-body">
+                    <h6 class="card-title">
+                        <i class="fas fa-info-circle me-2"></i>Why do we need this information?
+                    </h6>
+                    <ul class="list-unstyled mb-0">
+                        <li><i class="fas fa-check text-success me-2"></i>Personalize placement opportunities for your department</li>
+                        <li><i class="fas fa-check text-success me-2"></i>Send targeted notifications via Telegram and Email</li>
+                        <li><i class="fas fa-check text-success me-2"></i>Track your placement journey and progress</li>
+                        <li><i class="fas fa-check text-success me-2"></i>Provide relevant career guidance resources</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Telegram Help Modal -->
+<div class="modal fade" id="telegramHelpModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">
+                    <i class="fab fa-telegram me-2"></i>How to get your Telegram Chat ID
+                </h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <ol>
+                    <li>Open Telegram and search for <strong>@userinfobot</strong></li>
+                    <li>Start a conversation with the bot</li>
+                    <li>Send any message to the bot</li>
+                    <li>The bot will reply with your Chat ID (a number like 123456789)</li>
+                    <li>Copy that number and paste it in the form above</li>
+                </ol>
+                <div class="alert alert-info">
+                    <i class="fas fa-lightbulb me-2"></i>
+                    <strong>Tip:</strong> This allows us to send you instant notifications about new placement opportunities!
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Got it!</button>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    // Phone number formatting
+    document.getElementById('phone').addEventListener('input', function(e) {
+        let value = e.target.value.replace(/\D/g, '');
+        if (value.length > 0) {
+            if (value.length <= 10) {
+                e.target.value = value;
+            } else {
+                e.target.value = value.slice(0, 10);
+            }
+        }
+    });
+    
+    // Student ID validation
+    document.getElementById('student_id').addEventListener('input', function(e) {
+        let value = e.target.value.replace(/\D/g, '');
+        e.target.value = value;
+    });
+</script>
+{% endblock %}

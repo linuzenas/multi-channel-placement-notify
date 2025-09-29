@@ -1,0 +1,389 @@
+{% extends "base.html" %}
+
+{% block title %}Career Guidance - Student{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <h2 class="fw-bold">
+                    <i class="fas fa-lightbulb me-2"></i>Career Guidance
+                </h2>
+                <div class="text-end">
+                    <small class="text-muted">Your Department: {{ current_user.department or 'Not specified' }}</small>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Career Path Cards -->
+    <div class="row g-4 mb-5">
+        <div class="col-md-4">
+            <div class="card h-100 border-0 shadow-sm">
+                <div class="card-body text-center">
+                    <div class="feature-icon mx-auto mb-3">
+                        <i class="fas fa-code"></i>
+                    </div>
+                    <h5 class="card-title">Software Development</h5>
+                    <p class="card-text text-muted">Learn programming languages, frameworks, and development practices.</p>
+                    <div class="mt-auto">
+                        <button class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#softwareDevModal">
+                            View Resources
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4">
+            <div class="card h-100 border-0 shadow-sm">
+                <div class="card-body text-center">
+                    <div class="feature-icon mx-auto mb-3">
+                        <i class="fas fa-database"></i>
+                    </div>
+                    <h5 class="card-title">Data Science & Analytics</h5>
+                    <p class="card-text text-muted">Master data analysis, machine learning, and statistical modeling.</p>
+                    <div class="mt-auto">
+                        <button class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#dataScienceModal">
+                            View Resources
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4">
+            <div class="card h-100 border-0 shadow-sm">
+                <div class="card-body text-center">
+                    <div class="feature-icon mx-auto mb-3">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <h5 class="card-title">Cybersecurity</h5>
+                    <p class="card-text text-muted">Protect systems and networks from digital threats and attacks.</p>
+                    <div class="mt-auto">
+                        <button class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#cybersecurityModal">
+                            View Resources
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Preparation Timeline -->
+    <div class="row mb-5">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">
+                        <i class="fas fa-calendar-alt me-2"></i>Placement Preparation Timeline
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <div class="timeline">
+                        <div class="timeline-item">
+                            <div class="timeline-marker bg-primary"></div>
+                            <div class="timeline-content">
+                                <h6 class="fw-bold">Months 1-2: Foundation Building</h6>
+                                <p class="text-muted mb-2">Strengthen your fundamentals in programming, data structures, and algorithms.</p>
+                                <ul class="list-unstyled">
+                                    <li><i class="fas fa-check text-success me-2"></i>Complete basic programming courses</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>Practice coding problems daily</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>Build 2-3 small projects</li>
+                                </ul>
+                            </div>
+                        </div>
+                        
+                        <div class="timeline-item">
+                            <div class="timeline-marker bg-warning"></div>
+                            <div class="timeline-content">
+                                <h6 class="fw-bold">Months 3-4: Skill Development</h6>
+                                <p class="text-muted mb-2">Focus on specific technologies and frameworks relevant to your target roles.</p>
+                                <ul class="list-unstyled">
+                                    <li><i class="fas fa-check text-success me-2"></i>Learn industry-relevant frameworks</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>Contribute to open-source projects</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>Build a comprehensive portfolio</li>
+                                </ul>
+                            </div>
+                        </div>
+                        
+                        <div class="timeline-item">
+                            <div class="timeline-marker bg-success"></div>
+                            <div class="timeline-content">
+                                <h6 class="fw-bold">Months 5-6: Interview Preparation</h6>
+                                <p class="text-muted mb-2">Prepare for technical interviews and soft skills development.</p>
+                                <ul class="list-unstyled">
+                                    <li><i class="fas fa-check text-success me-2"></i>Practice mock interviews</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>Prepare behavioral questions</li>
+                                    <li><i class="fas fa-check text-success me-2"></i>Network with industry professionals</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Resources Section -->
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card h-100">
+                <div class="card-header">
+                    <h5 class="mb-0">
+                        <i class="fas fa-book me-2"></i>Learning Resources
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <div class="list-group list-group-flush">
+                        <a href="#" class="list-group-item list-group-item-action">
+                            <div class="d-flex w-100 justify-content-between">
+                                <h6 class="mb-1">LeetCode</h6>
+                                <small>Free</small>
+                            </div>
+                            <p class="mb-1">Practice coding problems and prepare for technical interviews.</p>
+                        </a>
+                        <a href="#" class="list-group-item list-group-item-action">
+                            <div class="d-flex w-100 justify-content-between">
+                                <h6 class="mb-1">Coursera</h6>
+                                <small>Paid/Free</small>
+                            </div>
+                            <p class="mb-1">Online courses from top universities and companies.</p>
+                        </a>
+                        <a href="#" class="list-group-item list-group-item-action">
+                            <div class="d-flex w-100 justify-content-between">
+                                <h6 class="mb-1">GitHub</h6>
+                                <small>Free</small>
+                            </div>
+                            <p class="mb-1">Build and showcase your projects to potential employers.</p>
+                        </a>
+                        <a href="#" class="list-group-item list-group-item-action">
+                            <div class="d-flex w-100 justify-content-between">
+                                <h6 class="mb-1">YouTube</h6>
+                                <small>Free</small>
+                            </div>
+                            <p class="mb-1">Free tutorials and coding bootcamps from industry experts.</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6">
+            <div class="card h-100">
+                <div class="card-header">
+                    <h5 class="mb-0">
+                        <i class="fas fa-trophy me-2"></i>Success Tips
+                    </h5>
+                </div>
+                <div class="card-body">
+                    <div class="accordion" id="tipsAccordion">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#tip1">
+                                    <i class="fas fa-target me-2"></i>Set Clear Goals
+                                </button>
+                            </h2>
+                            <div id="tip1" class="accordion-collapse collapse show" data-bs-parent="#tipsAccordion">
+                                <div class="accordion-body">
+                                    Define specific, measurable goals for your placement preparation. Break them down into daily and weekly tasks.
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#tip2">
+                                    <i class="fas fa-clock me-2"></i>Consistent Practice
+                                </button>
+                            </h2>
+                            <div id="tip2" class="accordion-collapse collapse" data-bs-parent="#tipsAccordion">
+                                <div class="accordion-body">
+                                    Practice coding problems daily, even if it's just for 30 minutes. Consistency is key to improvement.
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#tip3">
+                                    <i class="fas fa-users me-2"></i>Network & Connect
+                                </button>
+                            </h2>
+                            <div id="tip3" class="accordion-collapse collapse" data-bs-parent="#tipsAccordion">
+                                <div class="accordion-body">
+                                    Connect with alumni, industry professionals, and peers. Networking can open doors to opportunities.
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#tip4">
+                                    <i class="fas fa-project-diagram me-2"></i>Build Projects
+                                </button>
+                            </h2>
+                            <div id="tip4" class="accordion-collapse collapse" data-bs-parent="#tipsAccordion">
+                                <div class="accordion-body">
+                                    Create real-world projects that demonstrate your skills. A strong portfolio speaks louder than grades.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Software Development Modal -->
+<div class="modal fade" id="softwareDevModal" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">
+                    <i class="fas fa-code me-2"></i>Software Development Resources
+                </h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <h6>Programming Languages</h6>
+                        <ul class="list-unstyled">
+                            <li><i class="fas fa-check text-success me-2"></i>Python</li>
+                            <li><i class="fas fa-check text-success me-2"></i>Java</li>
+                            <li><i class="fas fa-check text-success me-2"></i>JavaScript</li>
+                            <li><i class="fas fa-check text-success me-2"></i>C++</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <h6>Frameworks & Tools</h6>
+                        <ul class="list-unstyled">
+                            <li><i class="fas fa-check text-success me-2"></i>React/Angular</li>
+                            <li><i class="fas fa-check text-success me-2"></i>Node.js</li>
+                            <li><i class="fas fa-check text-success me-2"></i>Django/Flask</li>
+                            <li><i class="fas fa-check text-success me-2"></i>Git</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Data Science Modal -->
+<div class="modal fade" id="dataScienceModal" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">
+                    <i class="fas fa-database me-2"></i>Data Science Resources
+                </h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <h6>Core Skills</h6>
+                        <ul class="list-unstyled">
+                            <li><i class="fas fa-check text-success me-2"></i>Python/R Programming</li>
+                            <li><i class="fas fa-check text-success me-2"></i>Statistics & Mathematics</li>
+                            <li><i class="fas fa-check text-success me-2"></i>Machine Learning</li>
+                            <li><i class="fas fa-check text-success me-2"></i>Data Visualization</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <h6>Tools & Libraries</h6>
+                        <ul class="list-unstyled">
+                            <li><i class="fas fa-check text-success me-2"></i>Pandas, NumPy</li>
+                            <li><i class="fas fa-check text-success me-2"></i>Scikit-learn</li>
+                            <li><i class="fas fa-check text-success me-2"></i>TensorFlow/PyTorch</li>
+                            <li><i class="fas fa-check text-success me-2"></i>Tableau/Power BI</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Cybersecurity Modal -->
+<div class="modal fade" id="cybersecurityModal" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">
+                    <i class="fas fa-shield-alt me-2"></i>Cybersecurity Resources
+                </h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <h6>Core Areas</h6>
+                        <ul class="list-unstyled">
+                            <li><i class="fas fa-check text-success me-2"></i>Network Security</li>
+                            <li><i class="fas fa-check text-success me-2"></i>Ethical Hacking</li>
+                            <li><i class="fas fa-check text-success me-2"></i>Incident Response</li>
+                            <li><i class="fas fa-check text-success me-2"></i>Risk Assessment</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <h6>Certifications</h6>
+                        <ul class="list-unstyled">
+                            <li><i class="fas fa-check text-success me-2"></i>CEH (Certified Ethical Hacker)</li>
+                            <li><i class="fas fa-check text-success me-2"></i>CISSP</li>
+                            <li><i class="fas fa-check text-success me-2"></i>CompTIA Security+</li>
+                            <li><i class="fas fa-check text-success me-2"></i>CISM</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_css %}
+<style>
+    .timeline {
+        position: relative;
+        padding-left: 30px;
+    }
+    
+    .timeline-item {
+        position: relative;
+        margin-bottom: 30px;
+    }
+    
+    .timeline-marker {
+        position: absolute;
+        left: -35px;
+        top: 0;
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        border: 3px solid white;
+        box-shadow: 0 0 0 3px #dee2e6;
+    }
+    
+    .timeline-item:not(:last-child)::before {
+        content: '';
+        position: absolute;
+        left: -29px;
+        top: 12px;
+        width: 2px;
+        height: calc(100% + 18px);
+        background-color: #dee2e6;
+    }
+    
+    .timeline-content {
+        background: white;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+</style>
+{% endblock %}

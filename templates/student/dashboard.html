@@ -1,0 +1,311 @@
+{% extends "base.html" %}
+
+{% block title %}Student Dashboard - Placement Messenger{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="d-flex justify-content-between align-items-center mb-4">
+                <div>
+                    <h2 class="fw-bold mb-1">
+                        <i class="fas fa-home me-2"></i>Welcome back, {{ current_user.name }}!
+                    </h2>
+                    <p class="text-muted mb-0">Stay updated with the latest placement opportunities</p>
+                </div>
+                <div class="text-end">
+                    <span class="badge bg-{{ 'success' if current_user.placement_status == 'placed' else 'warning' }} fs-6">
+                        {{ current_user.placement_status.title() }}
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Quick Stats -->
+    <div class="row g-4 mb-5">
+        <div class="col-md-3">
+            <div class="card bg-primary text-white">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                        <div>
+                            <h4 class="mb-0">{{ messages|length }}</h4>
+                            <p class="mb-0">Active Opportunities</p>
+                        </div>
+                        <div class="align-self-center">
+                            <i class="fas fa-briefcase fa-2x"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-3">
+            <div class="card bg-success text-white">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                        <div>
+                            <h4 class="mb-0">{{ current_user.department or 'N/A' }}</h4>
+                            <p class="mb-0">Department</p>
+                        </div>
+                        <div class="align-self-center">
+                            <i class="fas fa-building fa-2x"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-3">
+            <div class="card bg-warning text-white">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                        <div>
+                            <h4 class="mb-0">{{ current_user.year or 'N/A' }}</h4>
+                            <p class="mb-0">Academic Year</p>
+                        </div>
+                        <div class="align-self-center">
+                            <i class="fas fa-calendar fa-2x"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-3">
+            <div class="card bg-info text-white">
+                <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                        <div>
+                            <h4 class="mb-0">{{ 'Connected' if current_user.telegram_chat_id else 'Not Set' }}</h4>
+                            <p class="mb-0">Telegram Status</p>
+                        </div>
+                        <div class="align-self-center">
+                            <i class="fab fa-telegram fa-2x"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Quick Actions -->
+    <div class="row mb-4">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title mb-3">
+                        <i class="fas fa-bolt me-2"></i>Quick Actions
+                    </h5>
+                    <div class="row g-3">
+                        <div class="col-md-3">
+                            <a href="{{ url_for('career_guidance') }}" class="btn btn-outline-primary w-100">
+                                <i class="fas fa-lightbulb me-2"></i>Career Guidance
+                            </a>
+                        </div>
+                        <div class="col-md-3">
+                            <a href="{{ url_for('profile_setup') }}" class="btn btn-outline-secondary w-100">
+                                <i class="fas fa-user-edit me-2"></i>Update Profile
+                            </a>
+                        </div>
+                        <div class="col-md-3">
+                            <button class="btn btn-outline-success w-100" onclick="markAsPlaced()">
+                                <i class="fas fa-check-circle me-2"></i>Mark as Placed
+                            </button>
+                        </div>
+                        <div class="col-md-3">
+                            <button class="btn btn-outline-info w-100" onclick="requestGuidance()">
+                                <i class="fas fa-question-circle me-2"></i>Request Guidance
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Placement Messages -->
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="mb-0">
+                        <i class="fas fa-bullhorn me-2"></i>Latest Placement Opportunities
+                    </h5>
+                </div>
+                <div class="card-body">
+                    {% if messages %}
+                        <div class="row g-4">
+                            {% for message in messages %}
+                            <div class="col-lg-6">
+                                <div class="card placement-card h-100 border-0 shadow-sm">
+                                    <div class="card-body">
+                                        <div class="d-flex justify-content-between align-items-start mb-3">
+                                            <h5 class="card-title text-primary mb-0">{{ message.title }}</h5>
+                                            <small class="text-muted">{{ message.created_at.strftime('%b %d, %Y') }}</small>
+                                        </div>
+                                        
+                                        <div class="mb-3">
+                                            <span class="badge bg-secondary me-2">{{ message.company_name }}</span>
+                                            <span class="badge bg-info">{{ message.job_title }}</span>
+                                        </div>
+                                        
+                                        <div class="row g-2 mb-3">
+                                            {% if message.ctc_ug %}
+                                            <div class="col-12">
+                                                <small class="text-muted">UG CTC:</small>
+                                                <div class="fw-bold text-success">{{ message.ctc_ug }}</div>
+                                            </div>
+                                            {% endif %}
+                                            {% if message.ctc_pg %}
+                                            <div class="col-12">
+                                                <small class="text-muted">PG CTC:</small>
+                                                <div class="fw-bold text-success">{{ message.ctc_pg }}</div>
+                                            </div>
+                                            {% endif %}
+                                            {% if message.stipend %}
+                                            <div class="col-12">
+                                                <small class="text-muted">Stipend:</small>
+                                                <div class="fw-bold text-warning">{{ message.stipend }}</div>
+                                            </div>
+                                            {% endif %}
+                                        </div>
+                                        
+                                        {% if message.eligibility %}
+                                        <div class="mb-3">
+                                            <small class="text-muted">Eligibility:</small>
+                                            <p class="mb-0 small">{{ message.eligibility[:100] }}{% if message.eligibility|length > 100 %}...{% endif %}</p>
+                                        </div>
+                                        {% endif %}
+                                        
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <button class="btn btn-primary btn-sm" 
+                                                    data-bs-toggle="modal" 
+                                                    data-bs-target="#messageModal{{ message.id }}">
+                                                <i class="fas fa-eye me-1"></i>View Details
+                                            </button>
+                                            {% if message.registration_link %}
+                                            <a href="{{ message.registration_link }}" target="_blank" class="btn btn-success btn-sm">
+                                                <i class="fas fa-external-link-alt me-1"></i>Register
+                                            </a>
+                                            {% endif %}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Message Detail Modal -->
+                            <div class="modal fade" id="messageModal{{ message.id }}" tabindex="-1">
+                                <div class="modal-dialog modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title">{{ message.title }}</h5>
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <div class="row g-3">
+                                                <div class="col-md-6">
+                                                    <strong>Company:</strong> {{ message.company_name }}
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <strong>Job Title:</strong> {{ message.job_title }}
+                                                </div>
+                                                {% if message.ctc_ug %}
+                                                <div class="col-md-6">
+                                                    <strong>UG CTC:</strong> {{ message.ctc_ug }}
+                                                </div>
+                                                {% endif %}
+                                                {% if message.ctc_pg %}
+                                                <div class="col-md-6">
+                                                    <strong>PG CTC:</strong> {{ message.ctc_pg }}
+                                                </div>
+                                                {% endif %}
+                                                {% if message.stipend %}
+                                                <div class="col-12">
+                                                    <strong>Stipend:</strong> {{ message.stipend }}
+                                                </div>
+                                                {% endif %}
+                                                {% if message.eligibility %}
+                                                <div class="col-12">
+                                                    <strong>Eligibility:</strong><br>
+                                                    {{ message.eligibility }}
+                                                </div>
+                                                {% endif %}
+                                                {% if message.registration_link %}
+                                                <div class="col-12">
+                                                    <strong>Registration Link:</strong><br>
+                                                    <a href="{{ message.registration_link }}" target="_blank" class="btn btn-primary">
+                                                        <i class="fas fa-external-link-alt me-2"></i>Register Now
+                                                    </a>
+                                                </div>
+                                                {% endif %}
+                                                {% if message.additional_notes %}
+                                                <div class="col-12">
+                                                    <strong>Additional Notes:</strong><br>
+                                                    {{ message.additional_notes }}
+                                                </div>
+                                                {% endif %}
+                                            </div>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                            {% if message.registration_link %}
+                                            <a href="{{ message.registration_link }}" target="_blank" class="btn btn-primary">
+                                                <i class="fas fa-external-link-alt me-2"></i>Register
+                                            </a>
+                                            {% endif %}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    {% else %}
+                        <div class="text-center py-5">
+                            <i class="fas fa-inbox fa-3x text-muted mb-3"></i>
+                            <h5 class="text-muted">No placement opportunities available</h5>
+                            <p class="text-muted">Check back later for new opportunities or contact the placement cell.</p>
+                        </div>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    function markAsPlaced() {
+        if (confirm('Are you sure you want to mark yourself as placed? This will stop you from receiving new placement notifications.')) {
+            // Implement API call to update placement status
+            fetch('/api/update-placement-status', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    status: 'placed'
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    location.reload();
+                } else {
+                    alert('Failed to update status: ' + data.message);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('An error occurred. Please try again.');
+            });
+        }
+    }
+    
+    function requestGuidance() {
+        // Implement guidance request functionality
+        alert('Guidance request feature coming soon!');
+    }
+</script>
+{% endblock %}

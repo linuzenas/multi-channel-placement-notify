@@ -1,0 +1,237 @@
+{% extends "base.html" %}
+
+{% block title %}Upload Students - Admin{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="card shadow-lg border-0">
+                <div class="card-header">
+                    <h3 class="mb-0">
+                        <i class="fas fa-upload me-2"></i>Upload Student List
+                    </h3>
+                    <p class="mb-0 mt-2 text-muted">Upload Excel file with student names and email addresses</p>
+                </div>
+                <div class="card-body p-5">
+                    {% if session.message_data %}
+                    <div class="alert alert-info">
+                        <i class="fas fa-info-circle me-2"></i>
+                        <strong>Message Ready:</strong> You have created a message. Upload the student list to send notifications.
+                    </div>
+                    {% endif %}
+                    
+                    <form method="POST" enctype="multipart/form-data" id="uploadForm">
+                        <div class="mb-4">
+                            <label for="file" class="form-label">Select Excel File *</label>
+                            <input type="file" class="form-control" id="file" name="file" 
+                                   accept=".xlsx,.xls" required>
+                            <div class="form-text">
+                                <i class="fas fa-info-circle me-1"></i>
+                                Supported formats: .xlsx, .xls (Maximum size: 16MB)
+                            </div>
+                        </div>
+                        
+                        <div class="mb-4">
+                            <h6 class="text-primary mb-3">
+                                <i class="fas fa-table me-2"></i>Excel File Format
+                            </h6>
+                            <p class="text-muted">Your Excel file should have the following columns:</p>
+                            <div class="table-responsive">
+                                <table class="table table-bordered">
+                                    <thead class="table-light">
+                                        <tr>
+                                            <th>Column Name</th>
+                                            <th>Description</th>
+                                            <th>Required</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td><code>name</code></td>
+                                            <td>Student's full name</td>
+                                            <td><span class="badge bg-danger">Yes</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td><code>email</code></td>
+                                            <td>Student's email address</td>
+                                            <td><span class="badge bg-danger">Yes</span></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        
+                        <div class="mb-4">
+                            <h6 class="text-primary mb-3">
+                                <i class="fas fa-download me-2"></i>Need a Template?
+                            </h6>
+                            <p class="text-muted">Download our Excel template to ensure proper formatting:</p>
+                            <a href="{{ url_for('download_template') }}" class="btn btn-outline-primary">
+                                <i class="fas fa-download me-2"></i>Download Template
+                            </a>
+                        </div>
+                        
+                        <div class="d-flex justify-content-between">
+                            <a href="{{ url_for('admin_dashboard') }}" class="btn btn-secondary">
+                                <i class="fas fa-arrow-left me-2"></i>Back to Dashboard
+                            </a>
+                            <div>
+                                <button type="button" class="btn btn-outline-primary me-2" onclick="previewFile()">
+                                    <i class="fas fa-eye me-2"></i>Preview File
+                                </button>
+                                <button type="submit" class="btn btn-primary" id="submitBtn">
+                                    <i class="fas fa-paper-plane me-2"></i>Send Messages
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            
+            <!-- File Preview -->
+            <div class="card border-0 bg-light mt-4" id="previewCard" style="display: none;">
+                <div class="card-body">
+                    <h5 class="card-title">
+                        <i class="fas fa-eye me-2"></i>File Preview
+                    </h5>
+                    <div id="previewContent"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Sample Data Modal -->
+<div class="modal fade" id="sampleModal" tabindex="-1">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">
+                    <i class="fas fa-table me-2"></i>Sample Excel Format
+                </h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <p class="text-muted">Your Excel file should look like this:</p>
+                <div class="table-responsive">
+                    <table class="table table-bordered">
+                        <thead class="table-light">
+                            <tr>
+                                <th>name</th>
+                                <th>email</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>John Doe</td>
+                                <td>john@klu.ac.in</td>
+                            </tr>
+                            <tr>
+                                <td>Jane Smith</td>
+                                <td>jane@klu.ac.in</td>
+                            </tr>
+                            <tr>
+                                <td>Bob Johnson</td>
+                                <td>bob@klu.ac.in</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="alert alert-warning">
+                    <i class="fas fa-exclamation-triangle me-2"></i>
+                    <strong>Important:</strong> Make sure the column names are exactly "name" and "email" (case-sensitive).
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <a href="{{ url_for('download_template') }}" class="btn btn-primary">Download Template</a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+    function previewFile() {
+        const fileInput = document.getElementById('file');
+        const file = fileInput.files[0];
+        
+        if (!file) {
+            alert('Please select a file first');
+            return;
+        }
+        
+        if (!file.name.match(/\.(xlsx|xls)$/)) {
+            alert('Please select an Excel file (.xlsx or .xls)');
+            return;
+        }
+        
+        // Show loading state
+        const previewContent = document.getElementById('previewContent');
+        previewContent.innerHTML = '<div class="text-center"><i class="fas fa-spinner fa-spin fa-2x"></i><br>Processing file...</div>';
+        document.getElementById('previewCard').style.display = 'block';
+        
+        // In a real implementation, you would send the file to the server for preview
+        // For now, we'll show a sample preview
+        setTimeout(() => {
+            previewContent.innerHTML = `
+                <div class="alert alert-info">
+                    <i class="fas fa-info-circle me-2"></i>
+                    File preview functionality will be implemented in the next version. 
+                    Make sure your file has "name" and "email" columns.
+                </div>
+                <button class="btn btn-outline-primary" data-bs-toggle="modal" data-bs-target="#sampleModal">
+                    <i class="fas fa-table me-2"></i>View Sample Format
+                </button>
+            `;
+        }, 1000);
+    }
+    
+    // File input change handler
+    document.getElementById('file').addEventListener('change', function(e) {
+        const file = e.target.files[0];
+        if (file) {
+            const fileSize = (file.size / 1024 / 1024).toFixed(2);
+            if (file.size > 16 * 1024 * 1024) {
+                alert('File size exceeds 16MB limit');
+                e.target.value = '';
+                return;
+            }
+            
+            // Show file info
+            const fileInfo = document.createElement('div');
+            fileInfo.className = 'alert alert-success mt-2';
+            fileInfo.innerHTML = `
+                <i class="fas fa-check-circle me-2"></i>
+                File selected: ${file.name} (${fileSize} MB)
+            `;
+            
+            // Remove existing file info
+            const existingInfo = document.querySelector('.file-info');
+            if (existingInfo) {
+                existingInfo.remove();
+            }
+            
+            fileInfo.className += ' file-info';
+            e.target.parentNode.appendChild(fileInfo);
+        }
+    });
+    
+    // Form submission handler
+    document.getElementById('uploadForm').addEventListener('submit', function(e) {
+        const submitBtn = document.getElementById('submitBtn');
+        const originalText = submitBtn.innerHTML;
+        
+        submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin me-2"></i>Sending Messages...';
+        submitBtn.disabled = true;
+        
+        // Re-enable button after 30 seconds as fallback
+        setTimeout(() => {
+            submitBtn.innerHTML = originalText;
+            submitBtn.disabled = false;
+        }, 30000);
+    });
+</script>
+{% endblock %}

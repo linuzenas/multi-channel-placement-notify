@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Placement Messenger ER Diagram</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.2.3/mermaid.min.js"></script>
+</head>
+<body>
+    <div class="mermaid">
+    erDiagram
+        USER {
+            int id PK
+            string email
+            string name
+            string student_id
+            string department
+            string year
+            string phone
+            string telegram_chat_id
+            string placement_status
+            datetime created_at
+            boolean profile_completed
+        }
+        
+        PLACEMENT_MESSAGE {
+            int id PK
+            string title
+            string company_name
+            string job_title
+            string ctc_ug
+            string ctc_pg
+            string stipend
+            text eligibility
+            string registration_link
+            text additional_notes
+            datetime created_at
+            boolean sent_to_telegram
+            boolean sent_to_email
+        }
+        
+        EXCEL_UPLOAD {
+            string name
+            string email
+        }
+        
+        USER ||--o{ PLACEMENT_MESSAGE : "receives"
+        EXCEL_UPLOAD ||--o{ PLACEMENT_MESSAGE : "processed_for"
+    </div>
+
+    <script>
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+</body>
+</html>

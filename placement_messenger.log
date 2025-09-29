@@ -1,0 +1,1360 @@
+2025-09-07 08:48:22,951 - __main__ - INFO - Starting placement message delivery
+2025-09-07 08:48:22,952 - __main__ - INFO - Processing student: P Linu Zenas Paul
+2025-09-07 08:48:25,605 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-07 08:48:25,606 - __main__ - INFO - Telegram message sent successfully to chat ID: 5554791589
+2025-09-07 08:48:29,270 - __main__ - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-07 08:48:29,272 - __main__ - INFO - Successfully notified P Linu Zenas Paul via both channels
+2025-09-07 08:48:29,273 - __main__ - INFO - Processing student: K Shyam Sunder
+2025-09-07 08:48:31,248 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-07 08:48:31,251 - __main__ - INFO - Telegram message sent successfully to chat ID: 5554791589
+2025-09-07 08:48:34,943 - __main__ - INFO - Email sent successfully to: 9923008038@klu.ac.in
+2025-09-07 08:48:34,945 - __main__ - INFO - Successfully notified K Shyam Sunder via both channels
+2025-09-07 08:48:34,945 - __main__ - INFO - Placement message delivery completed
+2025-09-07 08:52:02,866 - __main__ - INFO - Starting placement message delivery
+2025-09-07 08:52:02,866 - __main__ - INFO - Processing student: P Linu Zenas Paul
+2025-09-07 08:52:04,578 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-07 08:52:04,580 - __main__ - INFO - Telegram message sent successfully to chat ID: 5554791589
+2025-09-07 08:52:07,492 - __main__ - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-07 08:52:07,492 - __main__ - INFO - Successfully notified P Linu Zenas Paul via both channels
+2025-09-07 08:52:07,493 - __main__ - INFO - Processing student: K Shyam Sunder
+2025-09-07 08:52:08,955 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-07 08:52:08,957 - __main__ - INFO - Telegram message sent successfully to chat ID: 5554791589
+2025-09-07 08:52:11,726 - __main__ - INFO - Email sent successfully to: 9923008038@klu.ac.in
+2025-09-07 08:52:11,727 - __main__ - INFO - Successfully notified K Shyam Sunder via both channels
+2025-09-07 08:52:11,727 - __main__ - INFO - Placement message delivery completed
+2025-09-07 08:54:06,075 - __main__ - INFO - Starting placement message delivery
+2025-09-07 08:54:06,076 - __main__ - INFO - Processing student: P Linu Zenas Paul
+2025-09-07 08:54:08,239 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-07 08:54:08,241 - __main__ - INFO - Telegram message sent successfully to chat ID: 5554791589
+2025-09-07 08:54:11,830 - __main__ - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-07 08:54:11,831 - __main__ - INFO - Successfully notified P Linu Zenas Paul via both channels
+2025-09-07 08:54:11,831 - __main__ - INFO - Processing student: K Shyam Sunder
+2025-09-07 08:54:13,712 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-07 08:54:13,713 - __main__ - INFO - Telegram message sent successfully to chat ID: 5554791589
+2025-09-07 08:54:16,607 - __main__ - INFO - Email sent successfully to: 9923008038@klu.ac.in
+2025-09-07 08:54:16,608 - __main__ - INFO - Successfully notified K Shyam Sunder via both channels
+2025-09-07 08:54:16,608 - __main__ - INFO - Placement message delivery completed
+2025-09-07 08:55:54,167 - __main__ - INFO - Starting placement message delivery
+2025-09-07 08:55:54,167 - __main__ - INFO - Processing student: P Linu Zenas Paul
+2025-09-07 08:55:56,105 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-07 08:55:56,108 - __main__ - INFO - Telegram message sent successfully to chat ID: 5554791589
+2025-09-07 08:55:58,956 - __main__ - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-07 08:55:58,957 - __main__ - INFO - Successfully notified P Linu Zenas Paul via both channels
+2025-09-07 08:55:58,958 - __main__ - INFO - Processing student: G Hasini
+2025-09-07 08:56:03,125 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-07 08:56:03,126 - __main__ - INFO - Telegram message sent successfully to chat ID: 5554791589
+2025-09-07 08:56:06,709 - __main__ - INFO - Email sent successfully to: 9923008035@klu.ac.in
+2025-09-07 08:56:06,711 - __main__ - INFO - Successfully notified G Hasini via both channels
+2025-09-07 08:56:06,711 - __main__ - INFO - Processing student: T Mahaveer
+2025-09-07 08:56:08,436 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-07 08:56:08,438 - __main__ - INFO - Telegram message sent successfully to chat ID: 5554791589
+2025-09-07 08:56:11,829 - __main__ - INFO - Email sent successfully to: 99220041585@klu.ac.in
+2025-09-07 08:56:11,831 - __main__ - INFO - Successfully notified T Mahaveer via both channels
+2025-09-07 08:56:11,832 - __main__ - INFO - Placement message delivery completed
+2025-09-07 13:00:48,562 - app - ERROR - Failed to initialize Supabase client: Invalid API key
+2025-09-07 13:00:58,918 - app - ERROR - Failed to initialize Supabase client: Invalid API key
+2025-09-07 13:00:59,054 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.38.229.14:5000
+2025-09-07 13:00:59,054 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-07 13:00:59,055 - werkzeug - INFO -  * Restarting with stat
+2025-09-07 13:00:59,859 - app - ERROR - Failed to initialize Supabase client: Invalid API key
+2025-09-07 13:00:59,901 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 13:00:59,905 - werkzeug - INFO -  * Debugger PIN: 272-909-595
+2025-09-07 13:01:04,492 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:01:04] "GET / HTTP/1.1" 200 -
+2025-09-07 13:01:05,249 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:01:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-07 13:01:09,366 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:01:09] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:01:27,168 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:01:27] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:03:07,827 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:03:07] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:03:34,631 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:03:34] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:03:35,674 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:03:35] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:03:38,347 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:03:38] "GET / HTTP/1.1" 200 -
+2025-09-07 13:03:39,317 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:03:39] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:05:36,127 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:05:38,713 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:05:38,762 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.38.229.14:5000
+2025-09-07 13:05:38,762 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-07 13:05:38,763 - werkzeug - INFO -  * Restarting with stat
+2025-09-07 13:05:39,939 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:05:39,979 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 13:05:39,983 - werkzeug - INFO -  * Debugger PIN: 272-909-595
+2025-09-07 13:05:42,595 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:05:42] "GET / HTTP/1.1" 200 -
+2025-09-07 13:05:46,165 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:05:46] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:06:05,329 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:06:05] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:06:06,288 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:06:06] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:09:49,000 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:09:49] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:10:00,731 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:10:00] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:10:05,845 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:10:05] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:12:22,518 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:12:22] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:12:25,003 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:12:25] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:13:59,288 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:14:01,638 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:14:01,691 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.38.229.14:5000
+2025-09-07 13:14:01,691 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-07 13:14:01,692 - werkzeug - INFO -  * Restarting with stat
+2025-09-07 13:14:02,924 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:14:02,967 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 13:14:02,971 - werkzeug - INFO -  * Debugger PIN: 272-909-595
+2025-09-07 13:14:05,588 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:14:05] "GET / HTTP/1.1" 200 -
+2025-09-07 13:14:09,439 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:14:09] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:16:24,363 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:16:27,189 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:16:27,239 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.38.229.14:5000
+2025-09-07 13:16:27,240 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-07 13:16:27,241 - werkzeug - INFO -  * Restarting with stat
+2025-09-07 13:16:28,527 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:16:28,570 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 13:16:28,574 - werkzeug - INFO -  * Debugger PIN: 272-909-595
+2025-09-07 13:16:31,230 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:16:31] "GET / HTTP/1.1" 200 -
+2025-09-07 13:16:33,769 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:16:33] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:17:03,223 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:17:03] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:17:11,090 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:17:11] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:29:14,073 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-07 13:29:14,223 - werkzeug - INFO -  * Restarting with stat
+2025-09-07 13:29:16,041 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:29:31,233 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:29:34,444 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:30:44,801 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:30:49,575 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:30:54,371 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:31:06,725 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:31:09,769 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:32:48,227 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:32:48,538 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.38.229.14:5000
+2025-09-07 13:32:48,539 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-07 13:32:48,561 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-07 13:32:50,166 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:32:50,188 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 13:32:50,193 - werkzeug - INFO -  * Debugger PIN: 482-132-439
+2025-09-07 13:32:53,076 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:32:53] "GET / HTTP/1.1" 200 -
+2025-09-07 13:32:54,394 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:32:54] "GET /login HTTP/1.1" 200 -
+2025-09-07 13:33:07,022 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:33:07] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-09-07 13:33:07,073 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:33:07] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-07 13:33:17,356 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:33:17] "GET /admin/create-message HTTP/1.1" 200 -
+2025-09-07 13:34:09,087 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:34:09] "[32mPOST /admin/create-message HTTP/1.1[0m" 302 -
+2025-09-07 13:34:09,372 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:34:09] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-07 13:34:21,850 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:34:21] "[32mGET /admin/send-message/1 HTTP/1.1[0m" 302 -
+2025-09-07 13:34:22,154 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:34:22] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-07 13:37:01,592 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\add_test_students.py', reloading
+2025-09-07 13:37:02,695 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-07 13:37:05,231 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:37:05,259 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 13:37:05,265 - werkzeug - INFO -  * Debugger PIN: 482-132-439
+2025-09-07 13:37:38,835 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\add_test_students.py', reloading
+2025-09-07 13:37:38,835 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\add_test_students.py', reloading
+2025-09-07 13:37:39,107 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-07 13:37:41,082 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:37:41,104 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 13:37:41,108 - werkzeug - INFO -  * Debugger PIN: 482-132-439
+2025-09-07 13:39:24,450 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\add_specific_students.py', reloading
+2025-09-07 13:39:25,357 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-07 13:39:27,693 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:39:27,716 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 13:39:27,720 - werkzeug - INFO -  * Debugger PIN: 482-132-439
+2025-09-07 13:39:51,363 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:39:55,478 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:39:55,521 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.38.229.14:5000
+2025-09-07 13:39:55,522 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-07 13:39:55,532 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-07 13:39:57,130 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:39:57,152 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 13:39:57,156 - werkzeug - INFO -  * Debugger PIN: 482-132-439
+2025-09-07 13:40:00,041 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:40:00] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-07 13:40:00,061 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:40:00] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-07 13:40:04,405 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:40:04] "[32mGET /admin/send-message/1 HTTP/1.1[0m" 302 -
+2025-09-07 13:40:04,713 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:40:04] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-07 13:40:10,312 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:40:10] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-07 13:40:17,581 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:40:17] "[32mGET /admin/send-message/1 HTTP/1.1[0m" 302 -
+2025-09-07 13:40:17,904 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:40:17] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-07 13:41:45,788 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\typing_extensions.py', reloading
+2025-09-07 13:41:45,813 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\sniffio\\__init__.py', reloading
+2025-09-07 13:41:45,814 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\sniffio\\_tests\\test_sniffio.py', reloading
+2025-09-07 13:41:45,816 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\sniffio\\_version.py', reloading
+2025-09-07 13:41:45,816 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\sniffio\\_impl.py', reloading
+2025-09-07 13:41:45,853 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\__main__.py', reloading
+2025-09-07 13:41:45,854 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\build_env.py', reloading
+2025-09-07 13:41:45,855 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\cache.py', reloading
+2025-09-07 13:41:45,856 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\configuration.py', reloading
+2025-09-07 13:41:45,856 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\exceptions.py', reloading
+2025-09-07 13:41:45,857 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\__init__.py', reloading
+2025-09-07 13:41:45,858 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\models\\candidate.py', reloading
+2025-09-07 13:41:45,859 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\models\\index.py', reloading
+2025-09-07 13:41:45,860 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\models\\direct_url.py', reloading
+2025-09-07 13:41:45,861 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\models\\wheel.py', reloading
+2025-09-07 13:41:45,862 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\egg_link.py', reloading
+2025-09-07 13:41:45,863 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\compat.py', reloading
+2025-09-07 13:41:45,863 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\direct_url_helpers.py', reloading
+2025-09-07 13:41:45,864 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\glibc.py', reloading
+2025-09-07 13:41:45,865 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\urls.py', reloading
+2025-09-07 13:41:45,866 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\setuptools_build.py', reloading
+2025-09-07 13:41:45,866 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\temp_dir.py', reloading
+2025-09-07 13:41:45,867 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib\\provider.py', reloading
+2025-09-07 13:41:45,868 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib\\factory.py', reloading
+2025-09-07 13:41:45,869 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib\\found_candidates.py', reloading
+2025-09-07 13:41:45,878 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib\\resolver.py', reloading
+2025-09-07 13:41:45,880 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib\\requirements.py', reloading
+2025-09-07 13:41:45,881 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib\\reporter.py', reloading
+2025-09-07 13:41:45,883 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\_log.py', reloading
+2025-09-07 13:41:45,884 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib\\candidates.py', reloading
+2025-09-07 13:41:45,885 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\_jaraco_text.py', reloading
+2025-09-07 13:41:45,885 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\virtualenv.py', reloading
+2025-09-07 13:41:45,886 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib\\base.py', reloading
+2025-09-07 13:41:45,887 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\legacy\\resolver.py', reloading
+2025-09-07 13:41:45,888 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\unpacking.py', reloading
+2025-09-07 13:41:45,888 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\wheel.py', reloading
+2025-09-07 13:41:45,889 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\subprocess.py', reloading
+2025-09-07 13:41:45,890 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\packaging.py', reloading
+2025-09-07 13:41:45,890 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\retry.py', reloading
+2025-09-07 13:41:45,891 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\filetypes.py', reloading
+2025-09-07 13:41:45,892 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\base.py', reloading
+2025-09-07 13:41:45,892 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\entrypoints.py', reloading
+2025-09-07 13:41:45,893 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\misc.py', reloading
+2025-09-07 13:41:45,894 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\hashes.py', reloading
+2025-09-07 13:41:45,894 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\filesystem.py', reloading
+2025-09-07 13:41:45,895 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\logging.py', reloading
+2025-09-07 13:41:45,896 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\datetime.py', reloading
+2025-09-07 13:41:45,896 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\vcs\\__init__.py', reloading
+2025-09-07 13:41:45,897 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\deprecation.py', reloading
+2025-09-07 13:41:45,898 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\models\\__init__.py', reloading
+2025-09-07 13:41:45,899 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\compatibility_tags.py', reloading
+2025-09-07 13:41:45,900 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\vcs\\versioncontrol.py', reloading
+2025-09-07 13:41:45,900 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\models\\target_python.py', reloading
+2025-09-07 13:41:45,902 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\vcs\\mercurial.py', reloading
+2025-09-07 13:41:45,903 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\vcs\\subversion.py', reloading
+2025-09-07 13:41:45,905 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\models\\selection_prefs.py', reloading
+2025-09-07 13:41:45,906 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\vcs\\git.py', reloading
+2025-09-07 13:41:45,908 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\appdirs.py', reloading
+2025-09-07 13:41:45,908 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\vcs\\bazaar.py', reloading
+2025-09-07 13:41:45,909 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\models\\scheme.py', reloading
+2025-09-07 13:41:45,910 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\models\\format_control.py', reloading
+2025-09-07 13:41:45,911 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\models\\installation_report.py', reloading
+2025-09-07 13:41:45,912 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\models\\search_scope.py', reloading
+2025-09-07 13:41:45,912 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\models\\pylock.py', reloading
+2025-09-07 13:41:45,913 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\wheel_builder.py', reloading
+2025-09-07 13:41:45,914 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\self_outdated_check.py', reloading
+2025-09-07 13:41:45,915 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\models\\link.py', reloading
+2025-09-07 13:41:45,916 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\pyproject.py', reloading
+2025-09-07 13:41:45,917 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\main.py', reloading
+2025-09-07 13:41:45,917 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\network\\__init__.py', reloading
+2025-09-07 13:41:45,918 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\network\\lazy_wheel.py', reloading
+2025-09-07 13:41:45,918 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\pkg_resources.py', reloading
+2025-09-07 13:41:45,919 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\req\\constructors.py', reloading
+2025-09-07 13:41:45,921 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\req\\req_install.py', reloading
+2025-09-07 13:41:45,921 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\check.py', reloading
+2025-09-07 13:41:45,922 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\req\\__init__.py', reloading
+2025-09-07 13:41:45,923 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\prepare.py', reloading
+2025-09-07 13:41:45,924 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\req\\req_set.py', reloading
+2025-09-07 13:41:45,925 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\freeze.py', reloading
+2025-09-07 13:41:45,925 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\req\\req_uninstall.py', reloading
+2025-09-07 13:41:45,926 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\network\\xmlrpc.py', reloading
+2025-09-07 13:41:45,927 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\req\\req_file.py', reloading
+2025-09-07 13:41:45,927 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\__init__.py', reloading
+2025-09-07 13:41:45,928 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install\\wheel.py', reloading
+2025-09-07 13:41:45,929 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build\\metadata.py', reloading
+2025-09-07 13:41:45,930 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build\\wheel_legacy.py', reloading
+2025-09-07 13:41:45,931 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build\\wheel_editable.py', reloading
+2025-09-07 13:41:45,934 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build\\wheel.py', reloading
+2025-09-07 13:41:45,937 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install\\__init__.py', reloading
+2025-09-07 13:41:45,938 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build\\metadata_legacy.py', reloading
+2025-09-07 13:41:45,939 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build\\metadata_editable.py', reloading
+2025-09-07 13:41:45,940 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build\\build_tracker.py', reloading
+2025-09-07 13:41:45,941 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install\\editable_legacy.py', reloading
+2025-09-07 13:41:45,942 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\network\\utils.py', reloading
+2025-09-07 13:41:45,944 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\_json.py', reloading
+2025-09-07 13:41:45,946 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\req\\req_dependency_group.py', reloading
+2025-09-07 13:41:45,947 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\network\\session.py', reloading
+2025-09-07 13:41:45,947 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\network\\download.py', reloading
+2025-09-07 13:41:45,948 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\network\\cache.py', reloading
+2025-09-07 13:41:45,949 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\base.py', reloading
+2025-09-07 13:41:45,949 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\network\\auth.py', reloading
+2025-09-07 13:41:45,950 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib\\_compat.py', reloading
+2025-09-07 13:41:45,952 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib\\_dists.py', reloading
+2025-09-07 13:41:45,953 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\locations\\_sysconfig.py', reloading
+2025-09-07 13:41:45,954 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\locations\\_distutils.py', reloading
+2025-09-07 13:41:45,954 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\locations\\__init__.py', reloading
+2025-09-07 13:41:45,955 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\index\\package_finder.py', reloading
+2025-09-07 13:41:45,956 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\index\\collector.py', reloading
+2025-09-07 13:41:45,957 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\freeze.py', reloading
+2025-09-07 13:41:45,958 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\hash.py', reloading
+2025-09-07 13:41:45,959 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\help.py', reloading
+2025-09-07 13:41:45,959 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\inspect.py', reloading
+2025-09-07 13:41:45,960 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\index.py', reloading
+2025-09-07 13:41:45,961 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\lock.py', reloading
+2025-09-07 13:41:45,962 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\uninstall.py', reloading
+2025-09-07 13:41:45,963 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\show.py', reloading
+2025-09-07 13:41:45,963 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\search.py', reloading
+2025-09-07 13:41:45,964 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\install.py', reloading
+2025-09-07 13:41:45,965 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\list.py', reloading
+2025-09-07 13:41:45,966 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\wheel.py', reloading
+2025-09-07 13:41:45,966 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\__init__.py', reloading
+2025-09-07 13:41:45,968 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\distributions\\__init__.py', reloading
+2025-09-07 13:41:45,968 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\debug.py', reloading
+2025-09-07 13:41:45,969 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\distributions\\wheel.py', reloading
+2025-09-07 13:41:45,969 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\download.py', reloading
+2025-09-07 13:41:45,971 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\index\\__init__.py', reloading
+2025-09-07 13:41:45,971 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\check.py', reloading
+2025-09-07 13:41:45,973 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\configuration.py', reloading
+2025-09-07 13:41:45,975 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\distributions\\installed.py', reloading
+2025-09-07 13:41:45,976 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\distributions\\sdist.py', reloading
+2025-09-07 13:41:45,976 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\completion.py', reloading
+2025-09-07 13:41:45,984 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\index\\sources.py', reloading
+2025-09-07 13:41:45,985 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\cache.py', reloading
+2025-09-07 13:41:45,988 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib\\__init__.py', reloading
+2025-09-07 13:41:45,989 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\distributions\\base.py', reloading
+2025-09-07 13:41:45,990 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\locations\\base.py', reloading
+2025-09-07 13:41:45,991 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib\\_envs.py', reloading
+2025-09-07 13:41:45,992 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\__pip-runner__.py', reloading
+2025-09-07 13:41:45,992 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\__init__.py', reloading
+2025-09-07 13:41:45,993 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\autocompletion.py', reloading
+2025-09-07 13:41:45,993 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\command_context.py', reloading
+2025-09-07 13:41:45,994 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\main.py', reloading
+2025-09-07 13:41:45,994 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\base_command.py', reloading
+2025-09-07 13:41:45,995 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\main_parser.py', reloading
+2025-09-07 13:41:45,995 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\index_command.py', reloading
+2025-09-07 13:41:45,996 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\status_codes.py', reloading
+2025-09-07 13:41:45,997 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\__init__.py', reloading
+2025-09-07 13:41:45,998 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\spinners.py', reloading
+2025-09-07 13:41:45,998 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\req_command.py', reloading
+2025-09-07 13:41:46,001 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\progress_bars.py', reloading
+2025-09-07 13:41:46,002 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\parser.py', reloading
+2025-09-07 13:41:46,002 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\cmdoptions.py', reloading
+2025-09-07 13:41:46,003 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\lowlevel.py', reloading
+2025-09-07 13:41:46,004 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\to_interpreter.py', reloading
+2025-09-07 13:41:46,004 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\to_process.py', reloading
+2025-09-07 13:41:46,005 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\__init__.py', reloading
+2025-09-07 13:41:46,005 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\to_thread.py', reloading
+2025-09-07 13:41:46,006 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\_core\\_contextmanagers.py', reloading
+2025-09-07 13:41:46,006 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\_core\\_exceptions.py', reloading
+2025-09-07 13:41:46,007 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\_core\\_asyncio_selector_thread.py', reloading
+2025-09-07 13:41:46,007 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\_core\\_resources.py', reloading
+2025-09-07 13:41:46,008 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\_backends\\_trio.py', reloading
+2025-09-07 13:41:46,009 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\_backends\\_asyncio.py', reloading
+2025-09-07 13:41:46,009 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\_core\\_eventloop.py', reloading
+2025-09-07 13:41:46,010 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\_core\\_signals.py', reloading
+2025-09-07 13:41:46,010 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\_core\\_subprocesses.py', reloading
+2025-09-07 13:41:46,011 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\_core\\_streams.py', reloading
+2025-09-07 13:41:46,012 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\_core\\_typedattr.py', reloading
+2025-09-07 13:41:46,012 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\_core\\_testing.py', reloading
+2025-09-07 13:41:46,013 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\_core\\_tasks.py', reloading
+2025-09-07 13:41:46,013 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\_core\\_tempfile.py', reloading
+2025-09-07 13:41:46,014 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\_core\\_sockets.py', reloading
+2025-09-07 13:41:46,015 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\_core\\_synchronization.py', reloading
+2025-09-07 13:41:46,015 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\_core\\_fileio.py', reloading
+2025-09-07 13:41:46,016 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\pytest_plugin.py', reloading
+2025-09-07 13:41:46,016 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\from_thread.py', reloading
+2025-09-07 13:41:46,017 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\streams\\buffered.py', reloading
+2025-09-07 13:41:46,017 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\streams\\file.py', reloading
+2025-09-07 13:41:46,018 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\streams\\stapled.py', reloading
+2025-09-07 13:41:46,019 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\streams\\memory.py', reloading
+2025-09-07 13:41:46,019 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\streams\\text.py', reloading
+2025-09-07 13:41:46,020 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\streams\\tls.py', reloading
+2025-09-07 13:41:46,021 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\certifi\\__main__.py', reloading
+2025-09-07 13:41:46,021 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\certifi\\__init__.py', reloading
+2025-09-07 13:41:46,022 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\certifi\\core.py', reloading
+2025-09-07 13:41:46,022 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\abc\\_eventloop.py', reloading
+2025-09-07 13:41:46,023 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\abc\\_resources.py', reloading
+2025-09-07 13:41:46,023 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\abc\\_streams.py', reloading
+2025-09-07 13:41:46,024 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\abc\\_testing.py', reloading
+2025-09-07 13:41:46,024 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\abc\\_subprocesses.py', reloading
+2025-09-07 13:41:46,025 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\abc\\__init__.py', reloading
+2025-09-07 13:41:46,025 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\abc\\_sockets.py', reloading
+2025-09-07 13:41:46,026 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\anyio\\abc\\_tasks.py', reloading
+2025-09-07 13:41:46,677 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-07 13:41:48,220 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:41:48,244 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 13:41:48,248 - werkzeug - INFO -  * Debugger PIN: 482-132-439
+2025-09-07 13:43:13,976 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-07 13:43:13,977 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-07 13:43:13,978 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-07 13:43:14,957 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-07 13:43:16,932 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:43:16,964 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 13:43:16,971 - werkzeug - INFO -  * Debugger PIN: 482-132-439
+2025-09-07 13:43:17,087 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\fix_placement_status.py', reloading
+2025-09-07 13:43:18,267 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-07 13:43:20,496 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:43:20,534 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 13:43:20,540 - werkzeug - INFO -  * Debugger PIN: 482-132-439
+2025-09-07 13:43:29,835 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:43:54,272 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:43:57,986 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:43:58,018 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.38.229.14:5000
+2025-09-07 13:43:58,018 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-07 13:43:58,025 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-07 13:43:59,525 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:43:59,548 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 13:43:59,552 - werkzeug - INFO -  * Debugger PIN: 482-132-439
+2025-09-07 13:44:01,520 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:44:01] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-07 13:44:01,540 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:44:01] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-07 13:44:12,267 - werkzeug - INFO -  * Detected change in 'C:\\Python312\\Lib\\concurrent\\futures\\thread.py', reloading
+2025-09-07 13:44:13,692 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-07 13:44:15,205 - app - INFO - Supabase client initialized successfully
+2025-09-07 13:44:15,230 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 13:44:15,235 - werkzeug - INFO -  * Debugger PIN: 482-132-439
+2025-09-07 13:44:17,168 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-07 13:44:17,169 - app - INFO - Telegram message sent successfully to chat ID: 5554791589
+2025-09-07 13:44:20,706 - app - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-07 13:44:24,267 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-07 13:44:24,269 - app - INFO - Telegram message sent successfully to chat ID: 5554791589
+2025-09-07 13:44:27,050 - app - INFO - Email sent successfully to: 9923008038@klu.ac.in
+2025-09-07 13:44:27,094 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:44:27] "[32mGET /admin/send-message/1 HTTP/1.1[0m" 302 -
+2025-09-07 13:44:27,182 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 13:44:27] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-07 16:50:30,758 - app - INFO - Supabase client initialized successfully
+2025-09-07 16:50:35,287 - app - INFO - Supabase client initialized successfully
+2025-09-07 16:50:35,365 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.103:5000
+2025-09-07 16:50:35,366 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-07 16:50:35,399 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-07 16:50:37,277 - app - INFO - Supabase client initialized successfully
+2025-09-07 16:50:37,314 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 16:50:37,322 - werkzeug - INFO -  * Debugger PIN: 482-132-439
+2025-09-07 16:50:41,163 - werkzeug - INFO -  * Detected change in 'C:\\Python312\\Lib\\encodings\\unicode_escape.py', reloading
+2025-09-07 16:50:41,171 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 16:50:41] "GET / HTTP/1.1" 200 -
+2025-09-07 16:50:41,597 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-07 16:50:46,945 - app - INFO - Supabase client initialized successfully
+2025-09-07 16:50:47,046 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 16:50:47,066 - werkzeug - INFO -  * Debugger PIN: 482-132-439
+2025-09-07 16:50:56,078 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 16:50:56] "GET /login HTTP/1.1" 200 -
+2025-09-07 16:50:56,551 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 16:50:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-07 16:51:26,738 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 16:51:26] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-09-07 16:51:26,804 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 16:51:26] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-07 16:51:39,025 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 16:51:39] "GET /admin/create-message HTTP/1.1" 200 -
+2025-09-07 16:51:58,572 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 16:51:58] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-07 16:52:29,988 - werkzeug - INFO -  * Detected change in 'C:\\Python312\\Lib\\concurrent\\futures\\thread.py', reloading
+2025-09-07 16:52:30,001 - app - ERROR - Failed to send Telegram message to 5554791589: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2025-09-07 16:52:30,076 - app - ERROR - Failed to send email to 9923008040@klu.ac.in: [Errno 11001] getaddrinfo failed
+2025-09-07 16:52:30,463 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-07 16:52:32,528 - app - INFO - Supabase client initialized successfully
+2025-09-07 16:52:32,563 - werkzeug - WARNING -  * Debugger is active!
+2025-09-07 16:52:32,570 - werkzeug - INFO -  * Debugger PIN: 482-132-439
+2025-09-07 16:52:38,151 - app - ERROR - Failed to send Telegram message to 5554791589: Timed out
+2025-09-07 16:52:38,231 - app - ERROR - Failed to send email to 9923008040@klu.ac.in: [Errno 11001] getaddrinfo failed
+2025-09-07 16:52:39,967 - app - ERROR - Failed to send Telegram message to 5554791589: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2025-09-07 16:52:40,022 - app - ERROR - Failed to send email to 9923008038@klu.ac.in: [Errno 11001] getaddrinfo failed
+2025-09-07 16:52:45,188 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 16:52:45] "[32mGET /admin/send-message/1 HTTP/1.1[0m" 302 -
+2025-09-07 16:52:45,273 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 16:52:45] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-07 16:53:47,379 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-07 16:53:47,381 - app - INFO - Telegram message sent successfully to chat ID: 5554791589
+2025-09-07 16:53:51,002 - app - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-07 16:53:55,126 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-07 16:53:55,129 - app - INFO - Telegram message sent successfully to chat ID: 5554791589
+2025-09-07 16:53:59,079 - app - INFO - Email sent successfully to: 9923008038@klu.ac.in
+2025-09-07 16:53:59,095 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 16:53:59] "[32mGET /admin/send-message/1 HTTP/1.1[0m" 302 -
+2025-09-07 16:53:59,102 - werkzeug - INFO - 127.0.0.1 - - [07/Sep/2025 16:53:59] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-08 12:42:06,765 - app - INFO - Supabase client initialized successfully
+2025-09-08 12:42:12,960 - app - INFO - Supabase client initialized successfully
+2025-09-08 12:42:13,040 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.97.221:5000
+2025-09-08 12:42:13,040 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-08 12:42:13,062 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-08 12:42:15,178 - app - INFO - Supabase client initialized successfully
+2025-09-08 12:42:15,211 - werkzeug - WARNING -  * Debugger is active!
+2025-09-08 12:42:15,218 - werkzeug - INFO -  * Debugger PIN: 482-132-439
+2025-09-08 12:42:17,804 - werkzeug - INFO - 127.0.0.1 - - [08/Sep/2025 12:42:17] "GET / HTTP/1.1" 200 -
+2025-09-08 12:42:21,612 - werkzeug - INFO - 127.0.0.1 - - [08/Sep/2025 12:42:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-08 12:42:22,324 - werkzeug - INFO - 127.0.0.1 - - [08/Sep/2025 12:42:22] "GET /login HTTP/1.1" 200 -
+2025-09-08 12:42:31,420 - werkzeug - INFO - 127.0.0.1 - - [08/Sep/2025 12:42:31] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-09-08 12:42:31,489 - werkzeug - INFO - 127.0.0.1 - - [08/Sep/2025 12:42:31] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 10:15:34,457 - app - INFO - Supabase client initialized successfully
+2025-09-20 10:18:32,205 - app - INFO - Supabase client initialized successfully
+2025-09-20 10:18:32,300 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 10:18:32,300 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 10:18:32,337 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 10:18:34,671 - app - INFO - Supabase client initialized successfully
+2025-09-20 10:18:34,706 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 10:18:34,716 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 10:18:39,314 - werkzeug - INFO -  * Detected change in 'C:\\Python312\\Lib\\encodings\\unicode_escape.py', reloading
+2025-09-20 10:18:39,329 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:18:39] "GET / HTTP/1.1" 200 -
+2025-09-20 10:18:40,163 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 10:18:42,652 - app - INFO - Supabase client initialized successfully
+2025-09-20 10:18:42,686 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 10:18:42,692 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 10:19:06,774 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:19:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-20 10:19:29,380 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:19:29] "GET /login HTTP/1.1" 200 -
+2025-09-20 10:19:36,371 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:19:36] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-09-20 10:19:36,463 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:19:36] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 10:19:40,961 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:19:40] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 10:19:44,865 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:19:44] "GET /admin/create-message HTTP/1.1" 200 -
+2025-09-20 10:20:15,192 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:20:15] "[32mPOST /admin/create-message HTTP/1.1[0m" 302 -
+2025-09-20 10:20:15,498 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:20:15] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 10:20:25,265 - werkzeug - INFO -  * Detected change in 'C:\\Python312\\Lib\\concurrent\\futures\\thread.py', reloading
+2025-09-20 10:20:26,099 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 10:20:28,695 - app - INFO - Supabase client initialized successfully
+2025-09-20 10:20:28,733 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 10:20:28,745 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 10:20:31,316 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-20 10:20:31,317 - app - INFO - Telegram message sent successfully to chat ID: 5554791589
+2025-09-20 10:20:35,559 - app - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-20 10:20:38,885 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-20 10:20:38,888 - app - INFO - Telegram message sent successfully to chat ID: 5554791589
+2025-09-20 10:20:45,822 - app - INFO - Email sent successfully to: 9923008038@klu.ac.in
+2025-09-20 10:20:45,887 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:20:45] "[32mGET /admin/send-message/2 HTTP/1.1[0m" 302 -
+2025-09-20 10:20:45,996 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:20:45] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 10:22:39,498 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:22:39] "GET /profile-setup HTTP/1.1" 200 -
+2025-09-20 10:22:44,789 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:22:44] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 10:46:01,270 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 10:46:01,270 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 10:46:01,290 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 10:46:02,686 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 10:46:02,704 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 10:46:24,034 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\test_app.py', reloading
+2025-09-20 10:46:24,656 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 10:46:26,674 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 10:46:26,679 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 10:46:59,456 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 10:46:59,462 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\test_app.py', reloading
+2025-09-20 10:46:59,469 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 10:46:59,475 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\test_app.py', reloading
+2025-09-20 10:47:00,219 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 10:47:01,289 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 10:47:01,297 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 10:47:56,168 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 10:47:56,168 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 10:47:56,181 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 10:47:57,308 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 10:47:57,315 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 10:48:08,177 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 10:48:08,177 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 10:48:08,188 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 10:48:09,132 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 10:48:09,136 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 10:48:15,325 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:48:15] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-20 10:48:15,350 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:48:15] "GET /login HTTP/1.1" 200 -
+2025-09-20 10:48:17,155 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:48:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-20 10:48:25,052 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:48:25] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-09-20 10:48:25,145 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:48:25] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 10:48:34,169 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:48:34] "GET /admin/create-message HTTP/1.1" 200 -
+2025-09-20 10:48:59,052 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:48:59] "[32mPOST /admin/create-message HTTP/1.1[0m" 302 -
+2025-09-20 10:48:59,071 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:48:59] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 10:49:08,894 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 400 Bad Request"
+2025-09-20 10:49:08,897 - __main__ - ERROR - Failed to send Telegram message to group: Chat not found
+2025-09-20 10:49:08,907 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:49:08] "[32mGET /admin/send-message/1 HTTP/1.1[0m" 302 -
+2025-09-20 10:49:08,929 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:49:08] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 10:49:14,333 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:49:14] "GET /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 10:52:11,440 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:52:11] "POST /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 10:52:18,483 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:52:18] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 10:52:27,387 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 400 Bad Request"
+2025-09-20 10:52:27,390 - __main__ - ERROR - Failed to send Telegram message to group: Chat not found
+2025-09-20 10:52:27,401 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:52:27] "[32mGET /admin/send-message/1 HTTP/1.1[0m" 302 -
+2025-09-20 10:52:27,418 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:52:27] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 10:52:30,645 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:52:30] "GET /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 10:52:38,258 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:52:38] "POST /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 10:53:34,486 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:53:34] "POST /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 10:53:51,141 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:53:51] "POST /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 10:53:55,479 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:53:55] "POST /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 10:54:09,628 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 10:54:09] "POST /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 11:11:26,067 - app - WARNING - Telegram group ID not configured properly
+2025-09-20 11:12:39,355 - __main__ - WARNING - Telegram group ID not configured properly
+2025-09-20 11:12:39,403 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.123:5000
+2025-09-20 11:12:39,403 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 11:12:39,425 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 11:12:40,518 - __main__ - WARNING - Telegram group ID not configured properly
+2025-09-20 11:12:40,550 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 11:12:40,555 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 11:12:47,961 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:12:47] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-20 11:12:48,002 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:12:48] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 11:12:57,132 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:12:57] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-20 11:12:57,143 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:12:57] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 11:13:08,563 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:13:08] "GET /admin/create-message HTTP/1.1" 200 -
+2025-09-20 11:13:39,658 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:13:39] "[32mPOST /admin/create-message HTTP/1.1[0m" 302 -
+2025-09-20 11:13:39,677 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:13:39] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 11:13:42,060 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:13:42] "GET /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 11:13:49,128 - __main__ - INFO - CSV upload completed: 0 students added
+2025-09-20 11:13:49,137 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:13:49] "POST /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 11:14:13,756 - __main__ - INFO - CSV upload completed: 0 students added
+2025-09-20 11:14:13,763 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:14:13] "POST /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 11:15:06,664 - __main__ - INFO - CSV upload completed: 0 students added
+2025-09-20 11:15:06,673 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:15:06] "POST /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 11:15:14,539 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:15:14] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 11:15:18,333 - __main__ - INFO - Starting to send message 3 to 0 students
+2025-09-20 11:15:18,336 - __main__ - WARNING - Telegram not configured properly
+2025-09-20 11:15:18,337 - __main__ - INFO - Message delivery completed: 0 emails sent, 0 failed
+2025-09-20 11:15:18,341 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:15:18] "[32mGET /admin/send-message/3 HTTP/1.1[0m" 302 -
+2025-09-20 11:15:18,357 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:15:18] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 11:16:03,987 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\run.py', reloading
+2025-09-20 11:16:03,997 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\deploy.py', reloading
+2025-09-20 11:16:04,006 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\test_setup.py', reloading
+2025-09-20 11:16:04,750 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 11:16:06,659 - __main__ - WARNING - Telegram group ID not configured properly
+2025-09-20 11:16:06,697 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 11:16:06,705 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 11:16:08,234 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 11:16:08,234 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 11:16:08,235 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 11:16:09,030 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 11:16:11,328 - __main__ - INFO - Supabase client initialized successfully
+2025-09-20 11:16:11,355 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 11:16:11,360 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 11:16:36,537 - app - INFO - Supabase client initialized successfully
+2025-09-20 11:16:41,661 - __main__ - INFO - Supabase client initialized successfully
+2025-09-20 11:16:41,703 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.123:5000
+2025-09-20 11:16:41,703 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 11:16:41,719 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 11:16:43,776 - __main__ - INFO - Supabase client initialized successfully
+2025-09-20 11:16:43,806 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 11:16:43,816 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 11:16:55,612 - app - INFO - Supabase client initialized successfully
+2025-09-20 11:16:55,660 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.123:5000
+2025-09-20 11:16:55,661 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 11:16:55,675 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 11:16:57,693 - app - INFO - Supabase client initialized successfully
+2025-09-20 11:16:57,738 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 11:16:57,744 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 11:17:00,318 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:17:00] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-20 11:17:00,345 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:17:00] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 11:17:13,329 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-20 11:17:13,332 - app - INFO - Telegram message sent successfully to chat ID: 5554791589
+2025-09-20 11:17:17,375 - app - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-20 11:17:20,473 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-20 11:17:20,476 - app - INFO - Telegram message sent successfully to chat ID: 5554791589
+2025-09-20 11:17:24,172 - app - INFO - Email sent successfully to: 9923008038@klu.ac.in
+2025-09-20 11:17:24,206 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:17:24] "[32mGET /admin/send-message/3 HTTP/1.1[0m" 302 -
+2025-09-20 11:17:24,236 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 11:17:24] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 14:50:22,565 - app - INFO - Supabase client initialized successfully
+2025-09-20 14:50:27,450 - app - INFO - Supabase client initialized successfully
+2025-09-20 14:50:27,545 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 14:50:27,546 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 14:50:27,548 - werkzeug - INFO -  * Restarting with stat
+2025-09-20 14:50:28,699 - app - INFO - Supabase client initialized successfully
+2025-09-20 14:50:28,740 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 14:50:28,746 - werkzeug - INFO -  * Debugger PIN: 106-105-151
+2025-09-20 14:50:32,187 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 14:50:32] "GET / HTTP/1.1" 200 -
+2025-09-20 14:50:34,997 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 14:50:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-20 14:50:35,992 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 14:50:35] "GET /login HTTP/1.1" 200 -
+2025-09-20 14:50:43,145 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 14:50:43] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-09-20 14:50:43,197 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 14:50:43] "GET /admin/dashboard HTTP/1.1" 200 -
+2025-09-20 14:58:29,629 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 14:58:29,829 - werkzeug - INFO -  * Restarting with stat
+2025-09-20 15:04:43,302 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 15:04:43,303 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 15:04:43,323 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 15:04:44,649 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 15:04:44,655 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 15:04:50,732 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:04:50] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-20 15:04:50,748 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:04:50] "GET /admin HTTP/1.1" 200 -
+2025-09-20 15:05:18,908 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:05:18] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-20 15:05:18,915 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:05:18] "GET /admin HTTP/1.1" 200 -
+2025-09-20 15:05:48,937 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:05:48] "GET /admin/create-message HTTP/1.1" 200 -
+2025-09-20 15:05:51,465 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 15:05:51,468 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 15:05:51,488 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\run.py', reloading
+2025-09-20 15:05:51,491 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\config.py', reloading
+2025-09-20 15:05:51,495 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\test_setup.py', reloading
+2025-09-20 15:05:51,503 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\config.py', reloading
+2025-09-20 15:05:51,509 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\run.py', reloading
+2025-09-20 15:05:51,511 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\test_setup.py', reloading
+2025-09-20 15:05:51,514 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\run.py', reloading
+2025-09-20 15:05:51,515 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\config.py', reloading
+2025-09-20 15:05:51,518 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\test_setup.py', reloading
+2025-09-20 15:05:51,905 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 15:05:52,838 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 15:05:52,842 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 15:06:46,208 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:06:46] "[32mPOST /admin/create-message HTTP/1.1[0m" 302 -
+2025-09-20 15:06:46,247 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:06:46] "GET /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 15:07:16,275 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:07:16] "GET /admin/template HTTP/1.1" 200 -
+2025-09-20 15:07:45,748 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:07:45] "[32mPOST /admin/upload-students HTTP/1.1[0m" 302 -
+2025-09-20 15:07:46,024 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:07:46] "GET /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 15:08:07,648 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\config.py', reloading
+2025-09-20 15:08:07,650 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\config.py', reloading
+2025-09-20 15:08:07,653 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 15:08:07,655 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 15:08:08,800 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 15:08:09,876 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 15:08:09,881 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 15:11:11,172 - werkzeug - INFO -  * Detected change in 'C:\\Python312\\Lib\\concurrent\\futures\\thread.py', reloading
+2025-09-20 15:11:11,589 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 15:11:12,484 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 15:11:12,488 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 15:11:37,077 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 400 Bad Request"
+2025-09-20 15:11:37,079 - app - ERROR - Failed to send Telegram message to -1001234567890: Chat not found
+2025-09-20 15:11:40,245 - app - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-20 15:11:43,131 - app - INFO - Email sent successfully to: 9923008035@klu.ac.in
+2025-09-20 15:11:46,050 - app - INFO - Email sent successfully to: 9923008038@klu.ac.in
+2025-09-20 15:11:46,052 - app - INFO - Message delivery completed: 0 Telegram, 3 Emails
+2025-09-20 15:11:46,062 - werkzeug - INFO -  * Detected change in 'C:\\Users\\petlu\\AppData\\Roaming\\Python\\Python312\\site-packages\\flask\\app.py', reloading
+2025-09-20 15:11:46,063 - werkzeug - INFO -  * Detected change in 'C:\\Users\\petlu\\AppData\\Roaming\\Python\\Python312\\site-packages\\flask_cors\\extension.py', reloading
+2025-09-20 15:11:46,092 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:11:46] "[35m[1mPOST /admin/upload-students HTTP/1.1[0m" 500 -
+2025-09-20 15:11:46,116 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:11:46] "GET /admin/upload-students?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-09-20 15:11:46,119 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:11:46] "GET /admin/upload-students?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-09-20 15:11:46,621 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 15:11:47,584 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 15:11:47,588 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 15:11:47,652 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:11:47] "GET /admin/upload-students?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-20 15:11:47,664 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:11:47] "[36mGET /admin/upload-students?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-09-20 15:14:45,343 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 15:14:45,768 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 15:14:46,803 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 15:14:46,808 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 15:14:50,558 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 15:14:50,558 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 15:14:51,120 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 15:14:52,118 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 15:14:52,122 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 15:14:59,819 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 15:14:59,820 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 15:14:59,821 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 15:15:00,524 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 15:15:01,576 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 15:15:01,581 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 15:15:04,776 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 15:15:04,777 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 15:15:05,826 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 15:15:06,935 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 15:15:06,941 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 15:15:13,460 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\get_telegram_group_id.py', reloading
+2025-09-20 15:15:13,613 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\get_telegram_group_id.py', reloading
+2025-09-20 15:15:13,613 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\get_telegram_group_id.py', reloading
+2025-09-20 15:15:14,360 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 15:15:15,599 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 15:15:15,603 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 15:15:52,039 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\get_telegram_group_id.py', reloading
+2025-09-20 15:15:52,040 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 15:15:52,040 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 15:15:52,041 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\get_telegram_group_id.py', reloading
+2025-09-20 15:15:52,567 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 15:15:53,443 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 15:15:53,447 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 15:16:17,313 - app - WARNING - Telegram group ID not configured or using default value
+2025-09-20 15:16:20,529 - app - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-20 15:16:23,328 - app - INFO - Email sent successfully to: 9923008035@klu.ac.in
+2025-09-20 15:16:26,756 - app - INFO - Email sent successfully to: 9923008038@klu.ac.in
+2025-09-20 15:16:26,757 - app - INFO - Message delivery completed: 0 Telegram, 3 Emails
+2025-09-20 15:16:26,762 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:16:26] "[32mPOST /admin/upload-students HTTP/1.1[0m" 302 -
+2025-09-20 15:16:26,804 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:16:26] "GET /admin HTTP/1.1" 200 -
+2025-09-20 15:16:40,082 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 15:16:40,082 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 15:16:40,089 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 15:16:40,924 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 15:16:40,927 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 15:16:49,491 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:16:49] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-20 15:16:49,502 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:16:49] "GET /admin HTTP/1.1" 200 -
+2025-09-20 15:17:07,594 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:17:07] "GET /admin/create-message HTTP/1.1" 200 -
+2025-09-20 15:17:29,427 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:17:29] "[32mPOST /admin/create-message HTTP/1.1[0m" 302 -
+2025-09-20 15:17:29,730 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:17:29] "GET /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 15:17:37,978 - app - WARNING - Telegram group ID not configured or using default value
+2025-09-20 15:17:41,818 - app - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-20 15:17:44,642 - app - INFO - Email sent successfully to: 9923008035@klu.ac.in
+2025-09-20 15:17:48,200 - app - INFO - Email sent successfully to: 9923008038@klu.ac.in
+2025-09-20 15:17:48,201 - app - INFO - Message delivery completed: 0 Telegram, 3 Emails
+2025-09-20 15:17:48,203 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:17:48] "[32mPOST /admin/upload-students HTTP/1.1[0m" 302 -
+2025-09-20 15:17:48,208 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:17:48] "GET /admin HTTP/1.1" 200 -
+2025-09-20 15:19:23,791 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:19:23] "GET /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 15:19:32,068 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 15:19:32] "GET /admin HTTP/1.1" 200 -
+2025-09-20 15:19:40,101 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 15:19:40,102 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 15:19:41,325 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 15:19:42,359 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 15:19:42,362 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:13:51,410 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 16:13:51,410 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 16:13:51,413 - werkzeug - INFO -  * Restarting with stat
+2025-09-20 16:13:52,404 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:13:52,410 - werkzeug - INFO -  * Debugger PIN: 106-105-151
+2025-09-20 16:13:54,221 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:13:54] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-20 16:13:54,237 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:13:54] "GET /admin HTTP/1.1" 200 -
+2025-09-20 16:13:56,533 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:13:56] "GET /admin/create-message HTTP/1.1" 200 -
+2025-09-20 16:14:10,743 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:14:10] "[32mPOST /admin/create-message HTTP/1.1[0m" 302 -
+2025-09-20 16:14:11,056 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:14:11] "GET /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 16:14:24,405 - app - WARNING - Telegram group ID not configured or using default value
+2025-09-20 16:14:27,757 - app - ERROR - Failed to send email to 9923008040@klu.ac.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b55396db81fsm913003a12.19 - gsmtp')
+2025-09-20 16:14:30,199 - app - ERROR - Failed to send email to 9923008035@klu.ac.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-77dfbab0d7dsm5595318b3a.60 - gsmtp')
+2025-09-20 16:14:32,530 - app - ERROR - Failed to send email to 9923008038@klu.ac.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-77cfec3cf72sm7660051b3a.69 - gsmtp')
+2025-09-20 16:14:32,531 - app - INFO - Message delivery completed: 0 Telegram, 0 Emails
+2025-09-20 16:14:32,538 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:14:32] "[32mPOST /admin/upload-students HTTP/1.1[0m" 302 -
+2025-09-20 16:14:32,555 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:14:32] "GET /admin HTTP/1.1" 200 -
+2025-09-20 16:16:25,895 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:16:25] "GET /admin HTTP/1.1" 200 -
+2025-09-20 16:16:28,748 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:16:28] "GET /admin/create-message HTTP/1.1" 200 -
+2025-09-20 16:16:55,158 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:16:55] "[32mPOST /admin/create-message HTTP/1.1[0m" 302 -
+2025-09-20 16:16:55,467 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:16:55] "GET /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 16:17:03,060 - app - WARNING - Telegram group ID not configured or using default value
+2025-09-20 16:17:05,256 - app - ERROR - Failed to send email to 9923008040@klu.ac.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b551c279cd5sm3987827a12.3 - gsmtp')
+2025-09-20 16:17:07,203 - app - ERROR - Failed to send email to 9923008035@klu.ac.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-26980368fe3sm77906715ad.151 - gsmtp')
+2025-09-20 16:17:09,156 - app - ERROR - Failed to send email to 9923008038@klu.ac.in: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-271353b8792sm16404945ad.123 - gsmtp')
+2025-09-20 16:17:09,157 - app - INFO - Message delivery completed: 0 Telegram, 0 Emails
+2025-09-20 16:17:09,163 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:17:09] "[32mPOST /admin/upload-students HTTP/1.1[0m" 302 -
+2025-09-20 16:17:09,179 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:17:09] "GET /admin HTTP/1.1" 200 -
+2025-09-20 16:20:44,538 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 16:20:44,539 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 16:20:44,540 - werkzeug - INFO -  * Restarting with stat
+2025-09-20 16:20:45,466 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:20:45,472 - werkzeug - INFO -  * Debugger PIN: 106-105-151
+2025-09-20 16:20:49,063 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:20:49] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-20 16:20:49,087 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:20:49] "GET /admin HTTP/1.1" 200 -
+2025-09-20 16:20:52,597 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:20:52] "GET /admin/create-message HTTP/1.1" 200 -
+2025-09-20 16:20:59,103 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:20:59] "[32mPOST /admin/create-message HTTP/1.1[0m" 302 -
+2025-09-20 16:20:59,430 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:20:59] "GET /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 16:21:05,661 - app - WARNING - Telegram group ID not configured or using default value
+2025-09-20 16:21:09,909 - app - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-20 16:21:13,066 - app - INFO - Email sent successfully to: 9923008035@klu.ac.in
+2025-09-20 16:21:16,696 - app - INFO - Email sent successfully to: 9923008038@klu.ac.in
+2025-09-20 16:21:16,698 - app - INFO - Message delivery completed: 0 Telegram, 3 Emails
+2025-09-20 16:21:16,703 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:21:16] "[32mPOST /admin/upload-students HTTP/1.1[0m" 302 -
+2025-09-20 16:21:16,724 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:21:16] "GET /admin HTTP/1.1" 200 -
+2025-09-20 16:26:38,771 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 16:26:38,772 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 16:26:38,791 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:26:40,013 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:26:40,021 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:26:48,785 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:26:48] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-20 16:26:48,801 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:26:48] "GET /admin HTTP/1.1" 200 -
+2025-09-20 16:35:20,245 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 16:35:20,246 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 16:35:20,259 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:35:21,764 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:35:21,770 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:35:24,704 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:35:24,705 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:35:24,706 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:35:25,041 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:35:26,097 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:35:26,101 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:35:29,408 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:35:29,409 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:35:30,388 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:35:31,481 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:35:31,486 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:35:52,235 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:35:52] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-20 16:35:52,258 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:35:52] "GET /admin HTTP/1.1" 200 -
+2025-09-20 16:35:54,585 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:35:54] "GET /admin/create-message HTTP/1.1" 200 -
+2025-09-20 16:36:39,825 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:36:39] "[32mPOST /admin/create-message HTTP/1.1[0m" 302 -
+2025-09-20 16:36:40,145 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:36:40] "GET /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 16:36:49,889 - werkzeug - INFO -  * Detected change in 'C:\\Python312\\Lib\\concurrent\\futures\\thread.py', reloading
+2025-09-20 16:36:50,692 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:36:51,737 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:36:51,743 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:37:06,224 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 400 Bad Request"
+2025-09-20 16:37:06,226 - app - ERROR - Failed to send Telegram message to -1001234567890: Chat not found
+2025-09-20 16:37:10,199 - app - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-20 16:37:13,505 - app - INFO - Email sent successfully to: 9923008035@klu.ac.in
+2025-09-20 16:37:17,265 - app - INFO - Email sent successfully to: 9923008038@klu.ac.in
+2025-09-20 16:37:17,267 - app - INFO - Message delivery completed: 0 Telegram, 3 Emails
+2025-09-20 16:37:17,277 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:37:17] "[32mPOST /admin/upload-students HTTP/1.1[0m" 302 -
+2025-09-20 16:37:17,349 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:37:17] "GET /admin HTTP/1.1" 200 -
+2025-09-20 16:39:34,168 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:39:34,169 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:39:34,169 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:39:35,237 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:39:36,703 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:39:36,710 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:39:41,813 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\test_telegram.py', reloading
+2025-09-20 16:39:42,172 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:39:43,783 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:39:43,789 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:39:56,260 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 16:39:56,261 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 16:39:56,275 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:39:57,735 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:39:57,744 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:40:01,076 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:40:01,077 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:40:01,087 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:40:01,087 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:40:01,088 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\test_telegram.py', reloading
+2025-09-20 16:40:01,088 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\test_telegram.py', reloading
+2025-09-20 16:40:01,089 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\test_telegram.py', reloading
+2025-09-20 16:40:01,089 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\test_telegram.py', reloading
+2025-09-20 16:40:01,089 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:40:01,089 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:40:01,494 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:40:02,041 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:40:02,685 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:40:02,689 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:40:03,200 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:40:03,202 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:40:03,308 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:40:03,313 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:40:03,884 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:40:04,991 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:40:04,996 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:40:08,954 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:40:08] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-20 16:40:08,973 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:40:08] "GET /admin HTTP/1.1" 200 -
+2025-09-20 16:40:11,060 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:40:11] "GET /admin/create-message HTTP/1.1" 200 -
+2025-09-20 16:40:24,946 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:40:24] "[32mPOST /admin/create-message HTTP/1.1[0m" 302 -
+2025-09-20 16:40:25,264 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:40:25] "GET /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 16:40:34,350 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 400 Bad Request"
+2025-09-20 16:40:34,353 - app - ERROR - Failed to send Telegram message to -1001234567890: Chat not found
+2025-09-20 16:40:39,301 - app - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-20 16:40:43,289 - app - INFO - Email sent successfully to: 9923008035@klu.ac.in
+2025-09-20 16:40:46,712 - app - INFO - Email sent successfully to: 9923008038@klu.ac.in
+2025-09-20 16:40:46,713 - app - INFO - Message delivery completed: 0 Telegram, 3 Emails
+2025-09-20 16:40:46,716 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:40:46] "[32mPOST /admin/upload-students HTTP/1.1[0m" 302 -
+2025-09-20 16:40:46,733 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:40:46] "GET /admin HTTP/1.1" 200 -
+2025-09-20 16:44:20,655 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:20,657 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:20,665 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:20,666 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:20,666 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:20,666 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:21,041 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:44:21,405 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:44:22,578 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:44:22,585 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:44:22,813 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:44:22,820 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:44:32,601 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:32,602 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:33,158 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:44:33,406 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:44:34,697 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:44:34,705 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:44:34,872 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:44:34,878 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:44:38,767 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:38,777 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:38,777 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:38,778 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:38,778 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:39,149 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:44:39,324 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:44:40,637 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:44:40,643 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:44:40,724 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:44:40,728 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:44:52,560 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 16:44:52,561 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 16:44:52,571 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:44:54,047 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:44:54,054 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:44:56,500 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:56,500 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:56,500 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:56,500 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:56,501 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:56,501 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:57,357 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:44:57,388 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:44:57,440 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:44:59,142 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:44:59,147 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:44:59,148 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:44:59,156 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:44:59,186 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:44:59,193 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:44:59,458 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:59,459 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:59,459 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:59,459 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:59,460 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:44:59,460 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:45:00,429 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:45:00,430 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:45:00,459 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:45:01,542 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:45:01,543 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:45:01,547 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:45:01,547 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:45:01,550 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:45:01,555 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:45:13,970 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:45:13] "GET /admin HTTP/1.1" 200 -
+2025-09-20 16:45:15,249 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:45:15] "GET /admin/create-message HTTP/1.1" 200 -
+2025-09-20 16:45:21,469 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:45:21] "[32mPOST /admin/create-message HTTP/1.1[0m" 302 -
+2025-09-20 16:45:21,788 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:45:21] "GET /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 16:45:28,824 - app - INFO - Attempting to send Telegram message to group: -1003096231693
+2025-09-20 16:45:32,069 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-20 16:45:32,074 - app - INFO - Telegram message sent successfully to chat ID: -1003096231693
+2025-09-20 16:45:32,077 - app - INFO - Telegram message sent successfully to group -1003096231693
+2025-09-20 16:45:36,200 - app - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-20 16:45:40,403 - app - INFO - Email sent successfully to: 9923008035@klu.ac.in
+2025-09-20 16:45:43,532 - app - INFO - Email sent successfully to: 9923008038@klu.ac.in
+2025-09-20 16:45:43,535 - app - INFO - Message delivery completed: 1 Telegram, 3 Emails
+2025-09-20 16:45:43,543 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:45:43] "[32mPOST /admin/upload-students HTTP/1.1[0m" 302 -
+2025-09-20 16:45:43,558 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:45:43] "GET /admin HTTP/1.1" 200 -
+2025-09-20 16:47:03,095 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 16:47:03,095 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 16:47:03,098 - werkzeug - INFO -  * Restarting with stat
+2025-09-20 16:47:04,060 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:47:04,067 - werkzeug - INFO -  * Debugger PIN: 106-105-151
+2025-09-20 16:47:06,856 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:47:06] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-20 16:47:06,872 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:47:06] "GET /admin HTTP/1.1" 200 -
+2025-09-20 16:50:25,048 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:50:25,261 - werkzeug - INFO -  * Restarting with stat
+2025-09-20 16:50:26,407 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:50:26,414 - werkzeug - INFO -  * Debugger PIN: 106-105-151
+2025-09-20 16:50:30,647 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:50:30,855 - werkzeug - INFO -  * Restarting with stat
+2025-09-20 16:50:32,190 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:50:32,199 - werkzeug - INFO -  * Debugger PIN: 106-105-151
+2025-09-20 16:50:34,374 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:50:34,602 - werkzeug - INFO -  * Restarting with stat
+2025-09-20 16:50:35,794 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:50:35,802 - werkzeug - INFO -  * Debugger PIN: 106-105-151
+2025-09-20 16:50:39,000 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:50:39,205 - werkzeug - INFO -  * Restarting with stat
+2025-09-20 16:50:40,442 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:50:40,449 - werkzeug - INFO -  * Debugger PIN: 106-105-151
+2025-09-20 16:51:54,270 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 16:51:54,270 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 16:51:54,281 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:51:55,803 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:51:55,809 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:51:58,089 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:51:58] "[32mGET / HTTP/1.1[0m" 302 -
+2025-09-20 16:51:58,151 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:51:58] "GET /admin HTTP/1.1" 200 -
+2025-09-20 16:52:00,697 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:52:00,698 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:52:01,218 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:52:01,467 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:52:01,568 - werkzeug - INFO -  * Restarting with stat
+2025-09-20 16:52:02,341 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:52:02,345 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:52:02,467 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:52:02,472 - werkzeug - INFO -  * Debugger PIN: 106-105-151
+2025-09-20 16:52:13,934 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:52:13] "GET /admin/create-message HTTP/1.1" 200 -
+2025-09-20 16:52:20,864 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:52:20] "[32mPOST /admin/create-message HTTP/1.1[0m" 302 -
+2025-09-20 16:52:20,889 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:52:20] "GET /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 16:52:34,035 - app - INFO - Attempting to send Telegram message to group: -1003096231693
+2025-09-20 16:52:36,741 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-20 16:52:36,744 - app - INFO - Telegram message sent successfully to chat ID: -1003096231693
+2025-09-20 16:52:36,747 - app - INFO - Telegram message sent successfully to group -1003096231693
+2025-09-20 16:52:39,994 - app - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-20 16:52:43,492 - app - INFO - Email sent successfully to: 9923008035@klu.ac.in
+2025-09-20 16:52:46,720 - app - INFO - Email sent successfully to: 9923008038@klu.ac.in
+2025-09-20 16:52:46,722 - app - INFO - Message delivery completed: 1 Telegram, 3 Emails
+2025-09-20 16:52:46,730 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:52:46] "[32mPOST /admin/upload-students HTTP/1.1[0m" 302 -
+2025-09-20 16:52:46,764 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:52:46] "GET /admin HTTP/1.1" 200 -
+2025-09-20 16:53:04,163 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:53:04,166 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:53:04,168 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:53:04,287 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:53:04,664 - werkzeug - INFO -  * Restarting with stat
+2025-09-20 16:53:04,739 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:53:05,624 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:53:05,629 - werkzeug - INFO -  * Debugger PIN: 106-105-151
+2025-09-20 16:53:05,872 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:53:05,877 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:57:01,745 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 16:57:01,746 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 16:57:01,757 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:57:03,275 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:57:03,282 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:57:08,175 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:57:08,184 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:57:08,186 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:57:08,653 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:57:09,887 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:57:09,895 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:57:10,631 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:57:10,632 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:57:10,632 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 16:57:11,137 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 16:57:12,202 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 16:57:12,207 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 16:57:14,713 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:57:14] "GET / HTTP/1.1" 200 -
+2025-09-20 16:57:25,716 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:57:25] "GET /login HTTP/1.1" 200 -
+2025-09-20 16:57:31,650 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:57:31] "GET /login HTTP/1.1" 200 -
+2025-09-20 16:57:34,014 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:57:34] "[32mGET /admin/template HTTP/1.1[0m" 302 -
+2025-09-20 16:57:34,332 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:57:34] "GET /login HTTP/1.1" 200 -
+2025-09-20 16:57:41,580 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:57:41] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-09-20 16:57:41,615 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:57:41] "GET /admin HTTP/1.1" 200 -
+2025-09-20 16:57:47,690 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:57:47] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-09-20 16:57:47,997 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 16:57:47] "GET / HTTP/1.1" 200 -
+2025-09-20 17:00:53,738 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 17:00:53,740 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 17:00:54,558 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:00:56,735 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:00:56,740 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:00:58,848 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 17:00:58,848 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 17:00:58,849 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 17:00:59,147 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:01:00,959 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:01:00,966 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:01:06,400 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 17:01:06,401 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 17:01:07,414 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:01:09,239 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:01:09,246 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:01:15,285 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 17:01:15,286 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 17:01:15,287 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 17:01:15,811 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:01:17,479 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:01:17,483 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:01:25,175 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 17:01:26,061 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:01:27,521 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:01:27,528 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:01:30,822 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 17:01:30,823 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 17:01:30,824 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 17:01:31,891 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:01:33,286 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:01:33,292 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:02:29,980 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\run.py', reloading
+2025-09-20 17:02:29,982 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\run.py', reloading
+2025-09-20 17:02:30,858 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:02:33,491 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:02:33,499 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:02:37,658 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\run.py', reloading
+2025-09-20 17:02:37,669 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\run.py', reloading
+2025-09-20 17:02:38,191 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:02:41,143 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:02:41,151 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:02:46,660 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 17:02:46,660 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 17:02:46,675 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:02:49,864 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:02:49,874 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:03:02,692 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 17:03:02,694 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\app.py', reloading
+2025-09-20 17:03:02,730 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\run.py', reloading
+2025-09-20 17:03:02,730 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\run.py', reloading
+2025-09-20 17:03:03,848 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:03:04,094 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:03:06,880 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:03:06,889 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:03:07,021 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:03:07,029 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:03:19,539 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:03:19] "GET / HTTP/1.1" 200 -
+2025-09-20 17:03:21,669 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:03:21] "GET /user/login HTTP/1.1" 200 -
+2025-09-20 17:03:27,122 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:03:27] "GET /user/register HTTP/1.1" 200 -
+2025-09-20 17:03:35,316 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:03:35] "GET / HTTP/1.1" 200 -
+2025-09-20 17:03:38,041 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:03:38] "GET /login HTTP/1.1" 200 -
+2025-09-20 17:03:46,083 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:03:46] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-09-20 17:03:46,437 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:03:46] "GET /admin HTTP/1.1" 200 -
+2025-09-20 17:03:55,569 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:03:55] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-09-20 17:03:55,590 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:03:55] "GET / HTTP/1.1" 200 -
+2025-09-20 17:05:10,757 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:05:10] "GET /user/login HTTP/1.1" 200 -
+2025-09-20 17:05:14,349 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:05:14] "GET / HTTP/1.1" 200 -
+2025-09-20 17:05:18,856 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:05:18] "GET /user/login HTTP/1.1" 200 -
+2025-09-20 17:05:33,983 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:05:33] "GET /user/register HTTP/1.1" 200 -
+2025-09-20 17:05:56,594 - werkzeug - INFO -  * Detected change in 'C:\\Users\\petlu\\AppData\\Roaming\\Python\\Python312\\site-packages\\flask\\app.py', reloading
+2025-09-20 17:05:56,599 - werkzeug - INFO -  * Detected change in 'C:\\Users\\petlu\\AppData\\Roaming\\Python\\Python312\\site-packages\\flask\\app.py', reloading
+2025-09-20 17:05:56,603 - werkzeug - INFO -  * Detected change in 'C:\\Users\\petlu\\AppData\\Roaming\\Python\\Python312\\site-packages\\flask_cors\\extension.py', reloading
+2025-09-20 17:05:56,604 - werkzeug - INFO -  * Detected change in 'C:\\Users\\petlu\\AppData\\Roaming\\Python\\Python312\\site-packages\\flask_cors\\extension.py', reloading
+2025-09-20 17:05:56,613 - werkzeug - INFO -  * Detected change in 'C:\\Users\\petlu\\AppData\\Roaming\\Python\\Python312\\site-packages\\sqlalchemy\\orm\\query.py', reloading
+2025-09-20 17:05:56,613 - werkzeug - INFO -  * Detected change in 'C:\\Users\\petlu\\AppData\\Roaming\\Python\\Python312\\site-packages\\sqlalchemy\\orm\\query.py', reloading
+2025-09-20 17:05:56,619 - werkzeug - INFO -  * Detected change in 'C:\\Users\\petlu\\AppData\\Roaming\\Python\\Python312\\site-packages\\sqlalchemy\\orm\\session.py', reloading
+2025-09-20 17:05:56,622 - werkzeug - INFO -  * Detected change in 'C:\\Users\\petlu\\AppData\\Roaming\\Python\\Python312\\site-packages\\sqlalchemy\\orm\\session.py', reloading
+2025-09-20 17:05:56,624 - werkzeug - INFO -  * Detected change in 'C:\\Users\\petlu\\AppData\\Roaming\\Python\\Python312\\site-packages\\sqlalchemy\\orm\\context.py', reloading
+2025-09-20 17:05:56,641 - werkzeug - INFO -  * Detected change in 'C:\\Users\\petlu\\AppData\\Roaming\\Python\\Python312\\site-packages\\sqlalchemy\\engine\\base.py', reloading
+2025-09-20 17:05:56,641 - werkzeug - INFO -  * Detected change in 'C:\\Users\\petlu\\AppData\\Roaming\\Python\\Python312\\site-packages\\sqlalchemy\\engine\\base.py', reloading
+2025-09-20 17:05:56,651 - werkzeug - INFO -  * Detected change in 'C:\\Users\\petlu\\AppData\\Roaming\\Python\\Python312\\site-packages\\sqlalchemy\\sql\\elements.py', reloading
+2025-09-20 17:05:56,650 - werkzeug - INFO -  * Detected change in 'C:\\Users\\petlu\\AppData\\Roaming\\Python\\Python312\\site-packages\\sqlalchemy\\sql\\elements.py', reloading
+2025-09-20 17:05:56,661 - werkzeug - INFO -  * Detected change in 'C:\\Users\\petlu\\AppData\\Roaming\\Python\\Python312\\site-packages\\sqlalchemy\\engine\\default.py', reloading
+2025-09-20 17:05:56,662 - werkzeug - INFO -  * Detected change in 'C:\\Users\\petlu\\AppData\\Roaming\\Python\\Python312\\site-packages\\sqlalchemy\\engine\\default.py', reloading
+2025-09-20 17:05:56,736 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:05:56] "[35m[1mPOST /user/register HTTP/1.1[0m" 500 -
+2025-09-20 17:05:57,025 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:05:57] "GET /user/register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-09-20 17:05:57,102 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:05:57] "GET /user/register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-09-20 17:05:57,669 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:05:57,669 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:06:00,814 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:06:00,814 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:06:00,823 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:06:00,825 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:06:01,003 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:06:01] "GET /user/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-09-20 17:06:01,023 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:06:01] "[36mGET /user/register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-09-20 17:07:35,473 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\test_setup.py', reloading
+2025-09-20 17:07:35,473 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\test_setup.py', reloading
+2025-09-20 17:07:36,059 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:07:36,064 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:07:39,099 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:07:39,129 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:07:39,184 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:07:39,198 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:09:07,783 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.164.4.14:5000
+2025-09-20 17:09:07,785 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 17:09:07,803 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:09:11,234 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:09:11,245 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:09:11,436 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\dotenv\\__init__.py', reloading
+2025-09-20 17:09:11,441 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\dotenv\\main.py', reloading
+2025-09-20 17:09:11,449 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\flask\\__init__.py', reloading
+2025-09-20 17:09:11,462 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+2025-09-20 17:09:11,465 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\flask\\app.py', reloading
+2025-09-20 17:09:11,466 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\flask\\blueprints.py', reloading
+2025-09-20 17:09:11,469 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\flask\\config.py', reloading
+2025-09-20 17:09:11,472 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\flask\\globals.py', reloading
+2025-09-20 17:09:11,476 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\flask\\helpers.py', reloading
+2025-09-20 17:09:11,478 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\flask\\templating.py', reloading
+2025-09-20 17:09:11,480 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+2025-09-20 17:09:11,482 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\werkzeug\\utils.py', reloading
+2025-09-20 17:09:11,484 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2025-09-20 17:09:11,485 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\flask\\typing.py', reloading
+2025-09-20 17:09:11,487 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\flask\\scaffold.py', reloading
+2025-09-20 17:09:11,489 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\flask\\sessions.py', reloading
+2025-09-20 17:09:11,491 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\flask\\wrappers.py', reloading
+2025-09-20 17:09:11,492 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\jinja2\\__init__.py', reloading
+2025-09-20 17:09:11,493 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2025-09-20 17:09:11,495 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2025-09-20 17:09:11,496 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2025-09-20 17:09:11,497 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\werkzeug\\_internal.py', reloading
+2025-09-20 17:09:11,499 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2025-09-20 17:09:11,500 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+2025-09-20 17:09:11,501 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\werkzeug\\datastructures\\file_storage.py', reloading
+2025-09-20 17:09:11,502 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\werkzeug\\datastructures\\headers.py', reloading
+2025-09-20 17:09:11,503 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\werkzeug\\datastructures\\mixins.py', reloading
+2025-09-20 17:09:11,504 - werkzeug - INFO -  * Detected change in 'D:\\Project WorkSpace\\P2BL\\sample\\venv\\Lib\\site-packages\\werkzeug\\datastructures\\structures.py', reloading
+2025-09-20 17:09:11,516 - werkzeug - INFO -  * Detected change in 'C:\\Python312\\Lib\\os.py', reloading
+2025-09-20 17:09:12,809 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:09:16,191 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:09:16,200 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:09:51,912 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:09:51] "GET / HTTP/1.1" 200 -
+2025-09-20 17:09:55,963 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:09:55] "GET /user/login HTTP/1.1" 200 -
+2025-09-20 17:10:04,749 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:10:04] "GET /user/login HTTP/1.1" 200 -
+2025-09-20 17:10:14,139 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:10:14] "GET /user/register HTTP/1.1" 200 -
+2025-09-20 17:10:29,603 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:10:29] "[32mPOST /user/register HTTP/1.1[0m" 302 -
+2025-09-20 17:10:29,903 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:10:29] "GET /profile-setup HTTP/1.1" 200 -
+2025-09-20 17:10:59,562 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:10:59] "[32mPOST /profile-setup HTTP/1.1[0m" 302 -
+2025-09-20 17:10:59,631 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:10:59] "GET /user/dashboard HTTP/1.1" 200 -
+2025-09-20 17:11:12,391 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:11:12] "GET /career-guidance HTTP/1.1" 200 -
+2025-09-20 17:11:39,481 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:11:39] "GET /profile-setup HTTP/1.1" 200 -
+2025-09-20 17:11:43,981 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:11:43] "GET /profile-setup HTTP/1.1" 200 -
+2025-09-20 17:12:49,304 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:12:49] "GET /user/register HTTP/1.1" 200 -
+2025-09-20 17:12:49,466 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:12:49] "GET /user/login HTTP/1.1" 200 -
+2025-09-20 17:12:50,873 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:12:50] "GET / HTTP/1.1" 200 -
+2025-09-20 17:12:52,592 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:12:52] "GET /login HTTP/1.1" 200 -
+2025-09-20 17:12:59,163 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:12:59] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-09-20 17:12:59,509 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:12:59] "GET /admin HTTP/1.1" 200 -
+2025-09-20 17:13:04,395 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:13:04] "GET /admin/create-message HTTP/1.1" 200 -
+2025-09-20 17:13:19,102 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:13:19] "[32mPOST /admin/create-message HTTP/1.1[0m" 302 -
+2025-09-20 17:13:19,401 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:13:19] "GET /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 17:13:25,743 - werkzeug - INFO -  * Detected change in 'C:\\Python312\\Lib\\xml\\etree\\__init__.py', reloading
+2025-09-20 17:13:25,798 - werkzeug - INFO -  * Detected change in 'C:\\Python312\\Lib\\xml\\etree\\ElementTree.py', reloading
+2025-09-20 17:13:25,816 - werkzeug - INFO -  * Detected change in 'C:\\Python312\\Lib\\xml\\etree\\ElementPath.py', reloading
+2025-09-20 17:13:26,713 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:13:28,506 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:13:28,512 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:13:43,335 - app - INFO - Attempting to send Telegram message to group: -1003096231693
+2025-09-20 17:13:46,402 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-20 17:13:46,406 - app - INFO - Telegram message sent successfully to chat ID: -1003096231693
+2025-09-20 17:13:46,411 - app - INFO - Telegram message sent successfully to group -1003096231693
+2025-09-20 17:13:49,911 - app - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-20 17:13:52,774 - app - INFO - Email sent successfully to: 9923008035@klu.ac.in
+2025-09-20 17:13:56,394 - app - INFO - Email sent successfully to: 9923008038@klu.ac.in
+2025-09-20 17:13:56,396 - app - INFO - Message delivery completed: 1 Telegram, 3 Emails
+2025-09-20 17:13:56,405 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:13:56] "[32mPOST /admin/upload-students HTTP/1.1[0m" 302 -
+2025-09-20 17:13:56,432 - werkzeug - INFO -  * Detected change in 'C:\\Python312\\Lib\\encodings\\unicode_escape.py', reloading
+2025-09-20 17:13:56,494 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:13:56] "GET /admin HTTP/1.1" 200 -
+2025-09-20 17:13:57,769 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-20 17:13:59,641 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 17:13:59,648 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-20 17:14:00,283 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:14:00] "GET /admin/create-message HTTP/1.1" 200 -
+2025-09-20 17:14:11,056 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:14:11] "[32mPOST /admin/create-message HTTP/1.1[0m" 302 -
+2025-09-20 17:14:11,089 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:14:11] "GET /admin/upload-students HTTP/1.1" 200 -
+2025-09-20 17:14:18,793 - app - INFO - Attempting to send Telegram message to group: -1003096231693
+2025-09-20 17:14:22,077 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8462103585:AAE_oaonQCq2Dt9FncbpdIatjSaFSXnKlAM/sendMessage "HTTP/1.1 200 OK"
+2025-09-20 17:14:22,080 - app - INFO - Telegram message sent successfully to chat ID: -1003096231693
+2025-09-20 17:14:22,084 - app - INFO - Telegram message sent successfully to group -1003096231693
+2025-09-20 17:14:25,835 - app - INFO - Email sent successfully to: 9923008040@klu.ac.in
+2025-09-20 17:14:29,032 - app - INFO - Email sent successfully to: 9923008035@klu.ac.in
+2025-09-20 17:14:31,916 - app - INFO - Email sent successfully to: 9923008038@klu.ac.in
+2025-09-20 17:14:31,918 - app - INFO - Message delivery completed: 1 Telegram, 3 Emails
+2025-09-20 17:14:31,926 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:14:31] "[32mPOST /admin/upload-students HTTP/1.1[0m" 302 -
+2025-09-20 17:14:31,955 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:14:31] "GET /admin HTTP/1.1" 200 -
+2025-09-20 17:14:38,367 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:14:38] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-09-20 17:14:38,699 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:14:38] "GET / HTTP/1.1" 200 -
+2025-09-20 17:14:40,008 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:14:40] "GET /user/login HTTP/1.1" 200 -
+2025-09-20 17:14:44,378 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:14:44] "[32mPOST /user/login HTTP/1.1[0m" 302 -
+2025-09-20 17:14:44,438 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:14:44] "GET /user/dashboard HTTP/1.1" 200 -
+2025-09-20 17:14:57,838 - werkzeug - INFO - 127.0.0.1 - - [20/Sep/2025 17:14:57] "GET /user/login HTTP/1.1" 200 -
+2025-09-21 16:05:54,764 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.104:5000
+2025-09-21 16:05:54,764 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-21 16:05:54,776 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-21 16:05:55,760 - werkzeug - WARNING -  * Debugger is active!
+2025-09-21 16:05:55,765 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-21 16:05:59,375 - werkzeug - INFO -  * Detected change in 'C:\\Python312\\Lib\\encodings\\unicode_escape.py', reloading
+2025-09-21 16:05:59,384 - werkzeug - INFO - 127.0.0.1 - - [21/Sep/2025 16:05:59] "GET / HTTP/1.1" 200 -
+2025-09-21 16:05:59,717 - werkzeug - INFO - 127.0.0.1 - - [21/Sep/2025 16:05:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-21 16:06:00,100 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-21 16:06:01,425 - werkzeug - WARNING -  * Debugger is active!
+2025-09-21 16:06:01,429 - werkzeug - INFO -  * Debugger PIN: 596-344-690
+2025-09-21 16:10:52,485 - werkzeug - INFO - 127.0.0.1 - - [21/Sep/2025 16:10:52] "GET / HTTP/1.1" 200 -
+2025-09-21 16:10:54,536 - werkzeug - INFO - 127.0.0.1 - - [21/Sep/2025 16:10:54] "GET / HTTP/1.1" 200 -
+2025-09-21 16:12:56,965 - werkzeug - INFO - 127.0.0.1 - - [21/Sep/2025 16:12:56] "GET / HTTP/1.1" 200 -
+2025-09-21 16:13:24,553 - werkzeug - INFO - 127.0.0.1 - - [21/Sep/2025 16:13:24] "GET / HTTP/1.1" 200 -
+2025-09-21 16:13:38,890 - werkzeug - INFO - 127.0.0.1 - - [21/Sep/2025 16:13:38] "GET /login HTTP/1.1" 200 -
+2025-09-21 16:13:52,361 - werkzeug - INFO - 127.0.0.1 - - [21/Sep/2025 16:13:52] "GET / HTTP/1.1" 200 -
+2025-09-21 16:14:00,109 - werkzeug - INFO - 127.0.0.1 - - [21/Sep/2025 16:14:00] "GET /login HTTP/1.1" 200 -
+2025-09-21 16:14:13,342 - werkzeug - INFO - 127.0.0.1 - - [21/Sep/2025 16:14:13] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-09-21 16:14:13,680 - werkzeug - INFO - 127.0.0.1 - - [21/Sep/2025 16:14:13] "GET /admin HTTP/1.1" 200 -
+2025-09-21 16:14:53,771 - werkzeug - INFO - 127.0.0.1 - - [21/Sep/2025 16:14:53] "GET /admin HTTP/1.1" 200 -
+2025-09-21 16:15:10,748 - werkzeug - INFO - 127.0.0.1 - - [21/Sep/2025 16:15:10] "GET /admin/upload-students HTTP/1.1" 200 -
