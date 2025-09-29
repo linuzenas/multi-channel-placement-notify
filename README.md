@@ -30,7 +30,7 @@ A streamlined Flask web application for managing placement opportunities at KARE
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/linuzenas/multi-channel-placement-notify.git
    cd placement-messenger
    ```
 
